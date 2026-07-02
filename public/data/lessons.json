@@ -1,0 +1,3792 @@
+[
+  {
+    "id": "sb-lesson-001",
+    "courseId": "sb-course-01",
+    "order": 1,
+    "title": "SpringBoot概述",
+    "slug": "SpringBoot概述",
+    "summary": "SpringBoot概述",
+    "content": "# SpringBoot概述\n\nSpringBoot概述内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-001"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-002",
+    "courseId": "sb-course-01",
+    "order": 2,
+    "title": "Spring与SpringBoot区别",
+    "slug": "Spring与SpringBoot区别",
+    "summary": "Spring与SpringBoot区别",
+    "content": "# Spring与SpringBoot区别\n\nSpring与SpringBoot区别内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-002"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-003",
+    "courseId": "sb-course-01",
+    "order": 3,
+    "title": "后端开发路线",
+    "slug": "后端开发路线",
+    "summary": "后端开发路线",
+    "content": "# 后端开发路线\n\n后端开发路线内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-003"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-004",
+    "courseId": "sb-course-01",
+    "order": 4,
+    "title": "开发环境配置",
+    "slug": "开发环境配置",
+    "summary": "开发环境配置",
+    "content": "# 开发环境配置\n\n开发环境配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-004"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-005",
+    "courseId": "sb-course-02",
+    "order": 1,
+    "title": "Maven项目结构",
+    "slug": "Maven项目结构",
+    "summary": "Maven项目结构",
+    "content": "# Maven项目结构\n\nMaven项目结构内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-005"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-006",
+    "courseId": "sb-course-02",
+    "order": 2,
+    "title": "启动类",
+    "slug": "启动类",
+    "summary": "启动类",
+    "content": "# 启动类\n\n启动类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-006"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-007",
+    "courseId": "sb-course-02",
+    "order": 3,
+    "title": "自动配置原理",
+    "slug": "自动配置原理",
+    "summary": "自动配置原理",
+    "content": "# 自动配置原理\n\n自动配置原理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-007",
+      "sb-kp-008"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-008",
+    "courseId": "sb-course-02",
+    "order": 4,
+    "title": "内嵌容器",
+    "slug": "内嵌容器",
+    "summary": "内嵌容器",
+    "content": "# 内嵌容器\n\n内嵌容器内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-009"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-009",
+    "courseId": "sb-course-02",
+    "order": 5,
+    "title": "DevTools热部署",
+    "slug": "DevTools热部署",
+    "summary": "DevTools热部署",
+    "content": "# DevTools热部署\n\nDevTools热部署内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-010"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-010",
+    "courseId": "sb-course-03",
+    "order": 1,
+    "title": "@Controller",
+    "slug": "@Controller",
+    "summary": "@Controller",
+    "content": "# @Controller\n\n@Controller内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-011"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-011",
+    "courseId": "sb-course-03",
+    "order": 2,
+    "title": "@RestController",
+    "slug": "@RestController",
+    "summary": "@RestController",
+    "content": "# @RestController\n\n@RestController内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-012"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-012",
+    "courseId": "sb-course-03",
+    "order": 3,
+    "title": "@RequestMapping",
+    "slug": "@RequestMapping",
+    "summary": "@RequestMapping",
+    "content": "# @RequestMapping\n\n@RequestMapping内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-013"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-013",
+    "courseId": "sb-course-03",
+    "order": 4,
+    "title": "@GetMapping/@PostMapping等",
+    "slug": "@GetMapping/@PostMapping等",
+    "summary": "@GetMapping/@PostMapping等",
+    "content": "# @GetMapping/@PostMapping等\n\n@GetMapping/@PostMapping等内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-014"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-014",
+    "courseId": "sb-course-03",
+    "order": 5,
+    "title": "RESTful设计",
+    "slug": "RESTful设计",
+    "summary": "RESTful设计",
+    "content": "# RESTful设计\n\nRESTful设计内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-015",
+      "sb-kp-016"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-015",
+    "courseId": "sb-course-04",
+    "order": 1,
+    "title": "@PathVariable",
+    "slug": "@PathVariable",
+    "summary": "@PathVariable",
+    "content": "# @PathVariable\n\n@PathVariable内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-017"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-016",
+    "courseId": "sb-course-04",
+    "order": 2,
+    "title": "@RequestParam",
+    "slug": "@RequestParam",
+    "summary": "@RequestParam",
+    "content": "# @RequestParam\n\n@RequestParam内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-018"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-017",
+    "courseId": "sb-course-04",
+    "order": 3,
+    "title": "@RequestBody",
+    "slug": "@RequestBody",
+    "summary": "@RequestBody",
+    "content": "# @RequestBody\n\n@RequestBody内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-019"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-018",
+    "courseId": "sb-course-04",
+    "order": 4,
+    "title": "DTO与VO",
+    "slug": "DTO与VO",
+    "summary": "DTO与VO",
+    "content": "# DTO与VO\n\nDTO与VO内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-020",
+      "sb-kp-021"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-019",
+    "courseId": "sb-course-04",
+    "order": 5,
+    "title": "统一响应Result",
+    "slug": "统一响应Result",
+    "summary": "统一响应Result",
+    "content": "# 统一响应Result\n\n统一响应Result内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-022",
+      "sb-kp-023"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-020",
+    "courseId": "sb-course-04",
+    "order": 6,
+    "title": "Jackson JSON",
+    "slug": "Jackson-JSON",
+    "summary": "Jackson JSON",
+    "content": "# Jackson JSON\n\nJackson JSON内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-024"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-021",
+    "courseId": "sb-course-05",
+    "order": 1,
+    "title": "分层架构",
+    "slug": "分层架构",
+    "summary": "分层架构",
+    "content": "# 分层架构\n\n分层架构内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-025"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-022",
+    "courseId": "sb-course-05",
+    "order": 2,
+    "title": "@Service",
+    "slug": "@Service",
+    "summary": "@Service",
+    "content": "# @Service\n\n@Service内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-026"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-023",
+    "courseId": "sb-course-05",
+    "order": 3,
+    "title": "@Repository/@Mapper",
+    "slug": "@Repository/@Mapper",
+    "summary": "@Repository/@Mapper",
+    "content": "# @Repository/@Mapper\n\n@Repository/@Mapper内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-027"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-024",
+    "courseId": "sb-course-05",
+    "order": 4,
+    "title": "DAO层设计",
+    "slug": "DAO层设计",
+    "summary": "DAO层设计",
+    "content": "# DAO层设计\n\nDAO层设计内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-028"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-025",
+    "courseId": "sb-course-05",
+    "order": 5,
+    "title": "分层规范",
+    "slug": "分层规范",
+    "summary": "分层规范",
+    "content": "# 分层规范\n\n分层规范内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-029"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-026",
+    "courseId": "sb-course-06",
+    "order": 1,
+    "title": "IoC容器",
+    "slug": "IoC容器",
+    "summary": "IoC容器",
+    "content": "# IoC容器\n\nIoC容器内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-030",
+      "sb-kp-031"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-027",
+    "courseId": "sb-course-06",
+    "order": 2,
+    "title": "DI依赖注入",
+    "slug": "DI依赖注入",
+    "summary": "DI依赖注入",
+    "content": "# DI依赖注入\n\nDI依赖注入内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-032"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-028",
+    "courseId": "sb-course-06",
+    "order": 3,
+    "title": "@Component系列",
+    "slug": "@Component系列",
+    "summary": "@Component系列",
+    "content": "# @Component系列\n\n@Component系列内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-033"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-029",
+    "courseId": "sb-course-06",
+    "order": 4,
+    "title": "@Autowired/@Resource",
+    "slug": "@Autowired/@Resource",
+    "summary": "@Autowired/@Resource",
+    "content": "# @Autowired/@Resource\n\n@Autowired/@Resource内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-034"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-030",
+    "courseId": "sb-course-06",
+    "order": 5,
+    "title": "@Configuration/@Bean",
+    "slug": "@Configuration/@Bean",
+    "summary": "@Configuration/@Bean",
+    "content": "# @Configuration/@Bean\n\n@Configuration/@Bean内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-035"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-031",
+    "courseId": "sb-course-06",
+    "order": 6,
+    "title": "@Primary/@Qualifier",
+    "slug": "@Primary/@Qualifier",
+    "summary": "@Primary/@Qualifier",
+    "content": "# @Primary/@Qualifier\n\n@Primary/@Qualifier内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-036"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-032",
+    "courseId": "sb-course-06",
+    "order": 7,
+    "title": "生命周期",
+    "slug": "生命周期",
+    "summary": "生命周期",
+    "content": "# 生命周期\n\n生命周期内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-037"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-033",
+    "courseId": "sb-course-07",
+    "order": 1,
+    "title": "application.yml",
+    "slug": "application.yml",
+    "summary": "application.yml",
+    "content": "# application.yml\n\napplication.yml内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-038"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-034",
+    "courseId": "sb-course-07",
+    "order": 2,
+    "title": "多环境配置",
+    "slug": "多环境配置",
+    "summary": "多环境配置",
+    "content": "# 多环境配置\n\n多环境配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-039"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-035",
+    "courseId": "sb-course-07",
+    "order": 3,
+    "title": "@Value/@ConfigurationProperties",
+    "slug": "@Value/@ConfigurationProperties",
+    "summary": "@Value/@ConfigurationProperties",
+    "content": "# @Value/@ConfigurationProperties\n\n@Value/@ConfigurationProperties内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-040"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-036",
+    "courseId": "sb-course-07",
+    "order": 4,
+    "title": "Logback配置",
+    "slug": "Logback配置",
+    "summary": "Logback配置",
+    "content": "# Logback配置\n\nLogback配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-041"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-037",
+    "courseId": "sb-course-07",
+    "order": 5,
+    "title": "日志级别",
+    "slug": "日志级别",
+    "summary": "日志级别",
+    "content": "# 日志级别\n\n日志级别内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-042"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-038",
+    "courseId": "sb-course-08",
+    "order": 1,
+    "title": "数据源配置",
+    "slug": "数据源配置",
+    "summary": "数据源配置",
+    "content": "# 数据源配置\n\n数据源配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-043"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-039",
+    "courseId": "sb-course-08",
+    "order": 2,
+    "title": "MyBatis入门",
+    "slug": "MyBatis入门",
+    "summary": "MyBatis入门",
+    "content": "# MyBatis入门\n\nMyBatis入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-044",
+      "sb-kp-045"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-040",
+    "courseId": "sb-course-08",
+    "order": 3,
+    "title": "@Select/@Insert/@Update/@Delete",
+    "slug": "@Select/@Insert/@Update/@Delete",
+    "summary": "@Select/@Insert/@Update/@Delete",
+    "content": "# @Select/@Insert/@Update/@Delete\n\n@Select/@Insert/@Update/@Delete内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-046"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-041",
+    "courseId": "sb-course-08",
+    "order": 4,
+    "title": "XML映射",
+    "slug": "XML映射",
+    "summary": "XML映射",
+    "content": "# XML映射\n\nXML映射内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-047"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-042",
+    "courseId": "sb-course-08",
+    "order": 5,
+    "title": "MyBatisPlus",
+    "slug": "MyBatisPlus",
+    "summary": "MyBatisPlus",
+    "content": "# MyBatisPlus\n\nMyBatisPlus内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-048"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-043",
+    "courseId": "sb-course-08",
+    "order": 6,
+    "title": "JPA入门",
+    "slug": "JPA入门",
+    "summary": "JPA入门",
+    "content": "# JPA入门\n\nJPA入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-049"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-044",
+    "courseId": "sb-course-09",
+    "order": 1,
+    "title": "新增",
+    "slug": "新增",
+    "summary": "新增",
+    "content": "# 新增\n\n新增内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-050"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-045",
+    "courseId": "sb-course-09",
+    "order": 2,
+    "title": "删除",
+    "slug": "删除",
+    "summary": "删除",
+    "content": "# 删除\n\n删除内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-051"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-046",
+    "courseId": "sb-course-09",
+    "order": 3,
+    "title": "更新",
+    "slug": "更新",
+    "summary": "更新",
+    "content": "# 更新\n\n更新内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-052"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-047",
+    "courseId": "sb-course-09",
+    "order": 4,
+    "title": "查询",
+    "slug": "查询",
+    "summary": "查询",
+    "content": "# 查询\n\n查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-053"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-048",
+    "courseId": "sb-course-09",
+    "order": 5,
+    "title": "分页PageHelper",
+    "slug": "分页PageHelper",
+    "summary": "分页PageHelper",
+    "content": "# 分页PageHelper\n\n分页PageHelper内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-054",
+      "sb-kp-055"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-049",
+    "courseId": "sb-course-09",
+    "order": 6,
+    "title": "动态SQL",
+    "slug": "动态SQL",
+    "summary": "动态SQL",
+    "content": "# 动态SQL\n\n动态SQL内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-056"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-050",
+    "courseId": "sb-course-09",
+    "order": 7,
+    "title": "事务@Transactional",
+    "slug": "事务@Transactional",
+    "summary": "事务@Transactional",
+    "content": "# 事务@Transactional\n\n事务@Transactional内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-057",
+      "sb-kp-058"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-051",
+    "courseId": "sb-course-09",
+    "order": 8,
+    "title": "事务传播",
+    "slug": "事务传播",
+    "summary": "事务传播",
+    "content": "# 事务传播\n\n事务传播内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-059"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-052",
+    "courseId": "sb-course-10",
+    "order": 1,
+    "title": "@Valid/@Validated",
+    "slug": "@Valid/@Validated",
+    "summary": "@Valid/@Validated",
+    "content": "# @Valid/@Validated\n\n@Valid/@Validated内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-060"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-053",
+    "courseId": "sb-course-10",
+    "order": 2,
+    "title": "常用校验注解",
+    "slug": "常用校验注解",
+    "summary": "常用校验注解",
+    "content": "# 常用校验注解\n\n常用校验注解内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-061"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-054",
+    "courseId": "sb-course-10",
+    "order": 3,
+    "title": "分组校验",
+    "slug": "分组校验",
+    "summary": "分组校验",
+    "content": "# 分组校验\n\n分组校验内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-062"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-055",
+    "courseId": "sb-course-10",
+    "order": 4,
+    "title": "@ControllerAdvice",
+    "slug": "@ControllerAdvice",
+    "summary": "@ControllerAdvice",
+    "content": "# @ControllerAdvice\n\n@ControllerAdvice内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-063",
+      "sb-kp-064"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-056",
+    "courseId": "sb-course-10",
+    "order": 5,
+    "title": "自定义异常",
+    "slug": "自定义异常",
+    "summary": "自定义异常",
+    "content": "# 自定义异常\n\n自定义异常内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-065"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-057",
+    "courseId": "sb-course-10",
+    "order": 6,
+    "title": "统一异常响应",
+    "slug": "统一异常响应",
+    "summary": "统一异常响应",
+    "content": "# 统一异常响应\n\n统一异常响应内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-066"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-058",
+    "courseId": "sb-course-11",
+    "order": 1,
+    "title": "登录流程",
+    "slug": "登录流程",
+    "summary": "登录流程",
+    "content": "# 登录流程\n\n登录流程内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-067"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-059",
+    "courseId": "sb-course-11",
+    "order": 2,
+    "title": "Session方式",
+    "slug": "Session方式",
+    "summary": "Session方式",
+    "content": "# Session方式\n\nSession方式内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "sb-kp-068"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-060",
+    "courseId": "sb-course-11",
+    "order": 3,
+    "title": "JWT入门",
+    "slug": "JWT入门",
+    "summary": "JWT入门",
+    "content": "# JWT入门\n\nJWT入门内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-069",
+      "sb-kp-070"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-061",
+    "courseId": "sb-course-11",
+    "order": 4,
+    "title": "JWT生成与解析",
+    "slug": "JWT生成与解析",
+    "summary": "JWT生成与解析",
+    "content": "# JWT生成与解析\n\nJWT生成与解析内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-071"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-062",
+    "courseId": "sb-course-11",
+    "order": 5,
+    "title": "拦截器HandlerInterceptor",
+    "slug": "拦截器HandlerInterceptor",
+    "summary": "拦截器HandlerInterceptor",
+    "content": "# 拦截器HandlerInterceptor\n\n拦截器HandlerInterceptor内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-072",
+      "sb-kp-073"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-063",
+    "courseId": "sb-course-11",
+    "order": 6,
+    "title": "密码加密BCrypt",
+    "slug": "密码加密BCrypt",
+    "summary": "密码加密BCrypt",
+    "content": "# 密码加密BCrypt\n\n密码加密BCrypt内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-074"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-064",
+    "courseId": "sb-course-11",
+    "order": 7,
+    "title": "CORS跨域",
+    "slug": "CORS跨域",
+    "summary": "CORS跨域",
+    "content": "# CORS跨域\n\nCORS跨域内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-075"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-065",
+    "courseId": "sb-course-12",
+    "order": 1,
+    "title": "文件上传",
+    "slug": "文件上传",
+    "summary": "文件上传",
+    "content": "# 文件上传\n\n文件上传内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-076"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-066",
+    "courseId": "sb-course-12",
+    "order": 2,
+    "title": "文件下载",
+    "slug": "文件下载",
+    "summary": "文件下载",
+    "content": "# 文件下载\n\n文件下载内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-077"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-067",
+    "courseId": "sb-course-12",
+    "order": 3,
+    "title": "Swagger/OpenAPI",
+    "slug": "Swagger/OpenAPI",
+    "summary": "Swagger/OpenAPI",
+    "content": "# Swagger/OpenAPI\n\nSwagger/OpenAPI内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-078",
+      "sb-kp-079"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-068",
+    "courseId": "sb-course-12",
+    "order": 4,
+    "title": "@Api/@ApiOperation",
+    "slug": "@Api/@ApiOperation",
+    "summary": "@Api/@ApiOperation",
+    "content": "# @Api/@ApiOperation\n\n@Api/@ApiOperation内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-080"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-069",
+    "courseId": "sb-course-12",
+    "order": 5,
+    "title": "JUnit测试",
+    "slug": "JUnit测试",
+    "summary": "JUnit测试",
+    "content": "# JUnit测试\n\nJUnit测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-081"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-070",
+    "courseId": "sb-course-12",
+    "order": 6,
+    "title": "MockMvc",
+    "slug": "MockMvc",
+    "summary": "MockMvc",
+    "content": "# MockMvc\n\nMockMvc内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-082"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-071",
+    "courseId": "sb-course-12",
+    "order": 7,
+    "title": "Postman使用",
+    "slug": "Postman使用",
+    "summary": "Postman使用",
+    "content": "# Postman使用\n\nPostman使用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-083"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-072",
+    "courseId": "sb-course-13",
+    "order": 1,
+    "title": "用户管理系统",
+    "slug": "用户管理系统",
+    "summary": "用户管理系统",
+    "content": "# 用户管理系统\n\n用户管理系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-084"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-073",
+    "courseId": "sb-course-13",
+    "order": 2,
+    "title": "文章系统",
+    "slug": "文章系统",
+    "summary": "文章系统",
+    "content": "# 文章系统\n\n文章系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-085"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-074",
+    "courseId": "sb-course-13",
+    "order": 3,
+    "title": "订单管理系统",
+    "slug": "订单管理系统",
+    "summary": "订单管理系统",
+    "content": "# 订单管理系统\n\n订单管理系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-086"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-075",
+    "courseId": "sb-course-13",
+    "order": 4,
+    "title": "项目完整流程",
+    "slug": "项目完整流程",
+    "summary": "项目完整流程",
+    "content": "# 项目完整流程\n\n项目完整流程内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-076",
+    "courseId": "sb-course-14",
+    "order": 1,
+    "title": "后端面试题",
+    "slug": "后端面试题",
+    "summary": "后端面试题",
+    "content": "# 后端面试题\n\n后端面试题内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-088"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-077",
+    "courseId": "sb-course-14",
+    "order": 2,
+    "title": "项目简历写法",
+    "slug": "项目简历写法",
+    "summary": "项目简历写法",
+    "content": "# 项目简历写法\n\n项目简历写法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-078",
+    "courseId": "sb-course-14",
+    "order": 3,
+    "title": "Docker部署",
+    "slug": "Docker部署",
+    "summary": "Docker部署",
+    "content": "# Docker部署\n\nDocker部署内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-090"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-079",
+    "courseId": "sb-course-14",
+    "order": 4,
+    "title": "Linux部署",
+    "slug": "Linux部署",
+    "summary": "Linux部署",
+    "content": "# Linux部署\n\nLinux部署内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-091"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-080",
+    "courseId": "sb-course-14",
+    "order": 5,
+    "title": "Nginx反向代理",
+    "slug": "Nginx反向代理",
+    "summary": "Nginx反向代理",
+    "content": "# Nginx反向代理\n\nNginx反向代理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-092"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-081",
+    "courseId": "sb-course-14",
+    "order": 6,
+    "title": "模拟测试",
+    "slug": "模拟测试",
+    "summary": "模拟测试",
+    "content": "# 模拟测试\n\n模拟测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-093"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-082",
+    "courseId": "sb-course-14",
+    "order": 7,
+    "title": "考前冲刺",
+    "slug": "考前冲刺",
+    "summary": "考前冲刺",
+    "content": "# 考前冲刺\n\n考前冲刺内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "sb-kp-094"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-083",
+    "courseId": "sb-course-01",
+    "order": 5,
+    "title": "SpringBoot入门补充",
+    "slug": "SpringBoot入门补充",
+    "summary": "SpringBoot入门补充",
+    "content": "# SpringBoot入门补充\n\nSpringBoot入门补充内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0083"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-084",
+    "courseId": "sb-course-01",
+    "order": 6,
+    "title": "Tomcat原理",
+    "slug": "Tomcat原理",
+    "summary": "Tomcat原理",
+    "content": "# Tomcat原理\n\nTomcat原理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0084"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-085",
+    "courseId": "sb-course-02",
+    "order": 6,
+    "title": "Maven坐标命名",
+    "slug": "Maven坐标命名",
+    "summary": "Maven坐标命名",
+    "content": "# Maven坐标命名\n\nMaven坐标命名内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0085"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-086",
+    "courseId": "sb-course-02",
+    "order": 7,
+    "title": "依赖传递",
+    "slug": "依赖传递",
+    "summary": "依赖传递",
+    "content": "# 依赖传递\n\n依赖传递内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0086"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-087",
+    "courseId": "sb-course-03",
+    "order": 6,
+    "title": "@CrossOrigin",
+    "slug": "@CrossOrigin",
+    "summary": "@CrossOrigin",
+    "content": "# @CrossOrigin\n\n@CrossOrigin内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-088",
+    "courseId": "sb-course-03",
+    "order": 7,
+    "title": "请求方法语义",
+    "slug": "请求方法语义",
+    "summary": "请求方法语义",
+    "content": "# 请求方法语义\n\n请求方法语义内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0088"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-089",
+    "courseId": "sb-course-04",
+    "order": 7,
+    "title": "Jackson配置",
+    "slug": "Jackson配置",
+    "summary": "Jackson配置",
+    "content": "# Jackson配置\n\nJackson配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-090",
+    "courseId": "sb-course-04",
+    "order": 8,
+    "title": "日期格式化",
+    "slug": "日期格式化",
+    "summary": "日期格式化",
+    "content": "# 日期格式化\n\n日期格式化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0090"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-091",
+    "courseId": "sb-course-05",
+    "order": 6,
+    "title": "ControllerService交互",
+    "slug": "ControllerService交互",
+    "summary": "ControllerService交互",
+    "content": "# ControllerService交互\n\nControllerService交互内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0091"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-092",
+    "courseId": "sb-course-05",
+    "order": 7,
+    "title": "接口设计规范",
+    "slug": "接口设计规范",
+    "summary": "接口设计规范",
+    "content": "# 接口设计规范\n\n接口设计规范内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0092"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-093",
+    "courseId": "sb-course-06",
+    "order": 8,
+    "title": "@Scope",
+    "slug": "@Scope",
+    "summary": "@Scope",
+    "content": "# @Scope\n\n@Scope内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0093"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-094",
+    "courseId": "sb-course-06",
+    "order": 9,
+    "title": "@Lazy",
+    "slug": "@Lazy",
+    "summary": "@Lazy",
+    "content": "# @Lazy\n\n@Lazy内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0094"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-095",
+    "courseId": "sb-course-07",
+    "order": 6,
+    "title": "配置优先级",
+    "slug": "配置优先级",
+    "summary": "配置优先级",
+    "content": "# 配置优先级\n\n配置优先级内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0095"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-096",
+    "courseId": "sb-course-07",
+    "order": 7,
+    "title": "@PropertySource",
+    "slug": "@PropertySource",
+    "summary": "@PropertySource",
+    "content": "# @PropertySource\n\n@PropertySource内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0096"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-097",
+    "courseId": "sb-course-08",
+    "order": 7,
+    "title": "连接池配置",
+    "slug": "连接池配置",
+    "summary": "连接池配置",
+    "content": "# 连接池配置\n\n连接池配置内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0097"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-098",
+    "courseId": "sb-course-08",
+    "order": 8,
+    "title": "多数据源",
+    "slug": "多数据源",
+    "summary": "多数据源",
+    "content": "# 多数据源\n\n多数据源内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0098"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-099",
+    "courseId": "sb-course-09",
+    "order": 9,
+    "title": "@SelectKey",
+    "slug": "@SelectKey",
+    "summary": "@SelectKey",
+    "content": "# @SelectKey\n\n@SelectKey内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0099"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-100",
+    "courseId": "sb-course-09",
+    "order": 10,
+    "title": "@ResultMap",
+    "slug": "@ResultMap",
+    "summary": "@ResultMap",
+    "content": "# @ResultMap\n\n@ResultMap内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0100"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-101",
+    "courseId": "sb-course-10",
+    "order": 7,
+    "title": "自定义校验注解",
+    "slug": "自定义校验注解",
+    "summary": "自定义校验注解",
+    "content": "# 自定义校验注解\n\n自定义校验注解内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0101"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-102",
+    "courseId": "sb-course-11",
+    "order": 8,
+    "title": "@RefreshToken",
+    "slug": "@RefreshToken",
+    "summary": "@RefreshToken",
+    "content": "# @RefreshToken\n\n@RefreshToken内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0102"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-103",
+    "courseId": "sb-course-11",
+    "order": 9,
+    "title": "JWT续期",
+    "slug": "JWT续期",
+    "summary": "JWT续期",
+    "content": "# JWT续期\n\nJWT续期内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0103"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-104",
+    "courseId": "sb-course-12",
+    "order": 8,
+    "title": "@ResponseEntity",
+    "slug": "@ResponseEntity",
+    "summary": "@ResponseEntity",
+    "content": "# @ResponseEntity\n\n@ResponseEntity内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0104"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-105",
+    "courseId": "sb-course-12",
+    "order": 9,
+    "title": "请求日志",
+    "slug": "请求日志",
+    "summary": "请求日志",
+    "content": "# 请求日志\n\n请求日志内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0105"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-106",
+    "courseId": "sb-course-13",
+    "order": 5,
+    "title": "权限管理实战",
+    "slug": "权限管理实战",
+    "summary": "权限管理实战",
+    "content": "# 权限管理实战\n\n权限管理实战内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0106"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-107",
+    "courseId": "sb-course-13",
+    "order": 6,
+    "title": "角色管理实战",
+    "slug": "角色管理实战",
+    "summary": "角色管理实战",
+    "content": "# 角色管理实战\n\n角色管理实战内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0107"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-108",
+    "courseId": "sb-course-14",
+    "order": 8,
+    "title": "面试题集",
+    "slug": "面试题集",
+    "summary": "面试题集",
+    "content": "# 面试题集\n\n面试题集内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0108"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-109",
+    "courseId": "sb-course-14",
+    "order": 9,
+    "title": "项目经验写法",
+    "slug": "项目经验写法",
+    "summary": "项目经验写法",
+    "content": "# 项目经验写法\n\n项目经验写法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0109"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-110",
+    "courseId": "sb-course-01",
+    "order": 7,
+    "title": "补充课1",
+    "slug": "补充课1",
+    "summary": "补充课1",
+    "content": "# 补充课1\n\n补充课1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0110"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-111",
+    "courseId": "sb-course-02",
+    "order": 8,
+    "title": "补充课2",
+    "slug": "补充课2",
+    "summary": "补充课2",
+    "content": "# 补充课2\n\n补充课2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0111"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-112",
+    "courseId": "sb-course-03",
+    "order": 8,
+    "title": "补充课3",
+    "slug": "补充课3",
+    "summary": "补充课3",
+    "content": "# 补充课3\n\n补充课3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0112"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-113",
+    "courseId": "sb-course-04",
+    "order": 9,
+    "title": "补充课4",
+    "slug": "补充课4",
+    "summary": "补充课4",
+    "content": "# 补充课4\n\n补充课4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0113"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-114",
+    "courseId": "sb-course-05",
+    "order": 8,
+    "title": "补充课5",
+    "slug": "补充课5",
+    "summary": "补充课5",
+    "content": "# 补充课5\n\n补充课5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0114"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-115",
+    "courseId": "sb-course-06",
+    "order": 10,
+    "title": "补充课6",
+    "slug": "补充课6",
+    "summary": "补充课6",
+    "content": "# 补充课6\n\n补充课6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0115"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-116",
+    "courseId": "sb-course-07",
+    "order": 8,
+    "title": "补充课7",
+    "slug": "补充课7",
+    "summary": "补充课7",
+    "content": "# 补充课7\n\n补充课7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0116"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-117",
+    "courseId": "sb-course-08",
+    "order": 9,
+    "title": "补充课8",
+    "slug": "补充课8",
+    "summary": "补充课8",
+    "content": "# 补充课8\n\n补充课8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0117"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-118",
+    "courseId": "sb-course-09",
+    "order": 11,
+    "title": "补充课9",
+    "slug": "补充课9",
+    "summary": "补充课9",
+    "content": "# 补充课9\n\n补充课9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0118"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-119",
+    "courseId": "sb-course-10",
+    "order": 8,
+    "title": "补充课10",
+    "slug": "补充课10",
+    "summary": "补充课10",
+    "content": "# 补充课10\n\n补充课10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0119"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-120",
+    "courseId": "sb-course-11",
+    "order": 10,
+    "title": "补充课11",
+    "slug": "补充课11",
+    "summary": "补充课11",
+    "content": "# 补充课11\n\n补充课11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0120"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-121",
+    "courseId": "sb-course-12",
+    "order": 10,
+    "title": "补充课12",
+    "slug": "补充课12",
+    "summary": "补充课12",
+    "content": "# 补充课12\n\n补充课12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0121"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-122",
+    "courseId": "sb-course-13",
+    "order": 7,
+    "title": "补充课13",
+    "slug": "补充课13",
+    "summary": "补充课13",
+    "content": "# 补充课13\n\n补充课13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0122"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-123",
+    "courseId": "sb-course-14",
+    "order": 10,
+    "title": "补充课14",
+    "slug": "补充课14",
+    "summary": "补充课14",
+    "content": "# 补充课14\n\n补充课14内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0123"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-124",
+    "courseId": "sb-course-01",
+    "order": 8,
+    "title": "补充课15",
+    "slug": "补充课15",
+    "summary": "补充课15",
+    "content": "# 补充课15\n\n补充课15内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0124"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-125",
+    "courseId": "sb-course-02",
+    "order": 9,
+    "title": "补充课16",
+    "slug": "补充课16",
+    "summary": "补充课16",
+    "content": "# 补充课16\n\n补充课16内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0125"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-126",
+    "courseId": "sb-course-03",
+    "order": 9,
+    "title": "补充课17",
+    "slug": "补充课17",
+    "summary": "补充课17",
+    "content": "# 补充课17\n\n补充课17内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0126"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-127",
+    "courseId": "sb-course-04",
+    "order": 10,
+    "title": "补充课18",
+    "slug": "补充课18",
+    "summary": "补充课18",
+    "content": "# 补充课18\n\n补充课18内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0127"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-128",
+    "courseId": "sb-course-05",
+    "order": 9,
+    "title": "补充课19",
+    "slug": "补充课19",
+    "summary": "补充课19",
+    "content": "# 补充课19\n\n补充课19内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0128"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-129",
+    "courseId": "sb-course-06",
+    "order": 11,
+    "title": "补充课20",
+    "slug": "补充课20",
+    "summary": "补充课20",
+    "content": "# 补充课20\n\n补充课20内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0129"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-130",
+    "courseId": "sb-course-07",
+    "order": 9,
+    "title": "补充课21",
+    "slug": "补充课21",
+    "summary": "补充课21",
+    "content": "# 补充课21\n\n补充课21内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0130"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-131",
+    "courseId": "sb-course-08",
+    "order": 10,
+    "title": "补充课22",
+    "slug": "补充课22",
+    "summary": "补充课22",
+    "content": "# 补充课22\n\n补充课22内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0131"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-132",
+    "courseId": "sb-course-09",
+    "order": 12,
+    "title": "补充课23",
+    "slug": "补充课23",
+    "summary": "补充课23",
+    "content": "# 补充课23\n\n补充课23内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0132"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-133",
+    "courseId": "sb-course-10",
+    "order": 9,
+    "title": "补充课24",
+    "slug": "补充课24",
+    "summary": "补充课24",
+    "content": "# 补充课24\n\n补充课24内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0133"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-134",
+    "courseId": "sb-course-11",
+    "order": 11,
+    "title": "补充课25",
+    "slug": "补充课25",
+    "summary": "补充课25",
+    "content": "# 补充课25\n\n补充课25内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0134"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-135",
+    "courseId": "sb-course-12",
+    "order": 11,
+    "title": "补充课26",
+    "slug": "补充课26",
+    "summary": "补充课26",
+    "content": "# 补充课26\n\n补充课26内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0135"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-136",
+    "courseId": "sb-course-13",
+    "order": 8,
+    "title": "补充课27",
+    "slug": "补充课27",
+    "summary": "补充课27",
+    "content": "# 补充课27\n\n补充课27内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0136"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-137",
+    "courseId": "sb-course-14",
+    "order": 11,
+    "title": "补充课28",
+    "slug": "补充课28",
+    "summary": "补充课28",
+    "content": "# 补充课28\n\n补充课28内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0137"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-138",
+    "courseId": "sb-course-01",
+    "order": 9,
+    "title": "补充课29",
+    "slug": "补充课29",
+    "summary": "补充课29",
+    "content": "# 补充课29\n\n补充课29内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0138"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-139",
+    "courseId": "sb-course-02",
+    "order": 10,
+    "title": "补充课30",
+    "slug": "补充课30",
+    "summary": "补充课30",
+    "content": "# 补充课30\n\n补充课30内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0139"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-140",
+    "courseId": "sb-course-03",
+    "order": 10,
+    "title": "补充课31",
+    "slug": "补充课31",
+    "summary": "补充课31",
+    "content": "# 补充课31\n\n补充课31内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0140"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-141",
+    "courseId": "sb-course-04",
+    "order": 11,
+    "title": "补充课32",
+    "slug": "补充课32",
+    "summary": "补充课32",
+    "content": "# 补充课32\n\n补充课32内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0141"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-142",
+    "courseId": "sb-course-05",
+    "order": 10,
+    "title": "补充课33",
+    "slug": "补充课33",
+    "summary": "补充课33",
+    "content": "# 补充课33\n\n补充课33内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0142"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-143",
+    "courseId": "sb-course-06",
+    "order": 12,
+    "title": "补充课34",
+    "slug": "补充课34",
+    "summary": "补充课34",
+    "content": "# 补充课34\n\n补充课34内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0143"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-144",
+    "courseId": "sb-course-07",
+    "order": 10,
+    "title": "补充课35",
+    "slug": "补充课35",
+    "summary": "补充课35",
+    "content": "# 补充课35\n\n补充课35内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0144"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-145",
+    "courseId": "sb-course-08",
+    "order": 11,
+    "title": "补充课36",
+    "slug": "补充课36",
+    "summary": "补充课36",
+    "content": "# 补充课36\n\n补充课36内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0145"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-146",
+    "courseId": "sb-course-09",
+    "order": 13,
+    "title": "补充课37",
+    "slug": "补充课37",
+    "summary": "补充课37",
+    "content": "# 补充课37\n\n补充课37内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0146"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-147",
+    "courseId": "sb-course-10",
+    "order": 10,
+    "title": "补充课38",
+    "slug": "补充课38",
+    "summary": "补充课38",
+    "content": "# 补充课38\n\n补充课38内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0147"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-148",
+    "courseId": "sb-course-11",
+    "order": 12,
+    "title": "补充课39",
+    "slug": "补充课39",
+    "summary": "补充课39",
+    "content": "# 补充课39\n\n补充课39内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0148"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-149",
+    "courseId": "sb-course-12",
+    "order": 12,
+    "title": "补充课40",
+    "slug": "补充课40",
+    "summary": "补充课40",
+    "content": "# 补充课40\n\n补充课40内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0149"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-150",
+    "courseId": "sb-course-13",
+    "order": 9,
+    "title": "补充课41",
+    "slug": "补充课41",
+    "summary": "补充课41",
+    "content": "# 补充课41\n\n补充课41内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0150"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-151",
+    "courseId": "sb-course-14",
+    "order": 12,
+    "title": "补充课42",
+    "slug": "补充课42",
+    "summary": "补充课42",
+    "content": "# 补充课42\n\n补充课42内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0151"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-152",
+    "courseId": "sb-course-01",
+    "order": 10,
+    "title": "补充课43",
+    "slug": "补充课43",
+    "summary": "补充课43",
+    "content": "# 补充课43\n\n补充课43内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0152"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-153",
+    "courseId": "sb-course-02",
+    "order": 11,
+    "title": "补充课44",
+    "slug": "补充课44",
+    "summary": "补充课44",
+    "content": "# 补充课44\n\n补充课44内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0153"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-154",
+    "courseId": "sb-course-03",
+    "order": 11,
+    "title": "补充课45",
+    "slug": "补充课45",
+    "summary": "补充课45",
+    "content": "# 补充课45\n\n补充课45内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0154"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-155",
+    "courseId": "sb-course-04",
+    "order": 12,
+    "title": "补充课46",
+    "slug": "补充课46",
+    "summary": "补充课46",
+    "content": "# 补充课46\n\n补充课46内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0155"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-156",
+    "courseId": "sb-course-05",
+    "order": 11,
+    "title": "补充课47",
+    "slug": "补充课47",
+    "summary": "补充课47",
+    "content": "# 补充课47\n\n补充课47内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0156"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-157",
+    "courseId": "sb-course-06",
+    "order": 13,
+    "title": "补充课48",
+    "slug": "补充课48",
+    "summary": "补充课48",
+    "content": "# 补充课48\n\n补充课48内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0157"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-158",
+    "courseId": "sb-course-07",
+    "order": 11,
+    "title": "补充课49",
+    "slug": "补充课49",
+    "summary": "补充课49",
+    "content": "# 补充课49\n\n补充课49内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0158"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-159",
+    "courseId": "sb-course-08",
+    "order": 12,
+    "title": "补充课50",
+    "slug": "补充课50",
+    "summary": "补充课50",
+    "content": "# 补充课50\n\n补充课50内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0159"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-160",
+    "courseId": "sb-course-09",
+    "order": 14,
+    "title": "补充课51",
+    "slug": "补充课51",
+    "summary": "补充课51",
+    "content": "# 补充课51\n\n补充课51内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0160"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-161",
+    "courseId": "sb-course-10",
+    "order": 11,
+    "title": "补充课52",
+    "slug": "补充课52",
+    "summary": "补充课52",
+    "content": "# 补充课52\n\n补充课52内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0161"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-162",
+    "courseId": "sb-course-11",
+    "order": 13,
+    "title": "补充课53",
+    "slug": "补充课53",
+    "summary": "补充课53",
+    "content": "# 补充课53\n\n补充课53内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0162"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-163",
+    "courseId": "sb-course-12",
+    "order": 13,
+    "title": "补充课54",
+    "slug": "补充课54",
+    "summary": "补充课54",
+    "content": "# 补充课54\n\n补充课54内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0163"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-164",
+    "courseId": "sb-course-13",
+    "order": 10,
+    "title": "补充课55",
+    "slug": "补充课55",
+    "summary": "补充课55",
+    "content": "# 补充课55\n\n补充课55内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0164"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-165",
+    "courseId": "sb-course-14",
+    "order": 13,
+    "title": "补充课56",
+    "slug": "补充课56",
+    "summary": "补充课56",
+    "content": "# 补充课56\n\n补充课56内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0165"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-166",
+    "courseId": "sb-course-01",
+    "order": 11,
+    "title": "补充课57",
+    "slug": "补充课57",
+    "summary": "补充课57",
+    "content": "# 补充课57\n\n补充课57内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0166"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-167",
+    "courseId": "sb-course-02",
+    "order": 12,
+    "title": "补充课58",
+    "slug": "补充课58",
+    "summary": "补充课58",
+    "content": "# 补充课58\n\n补充课58内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0167"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-168",
+    "courseId": "sb-course-03",
+    "order": 12,
+    "title": "补充课59",
+    "slug": "补充课59",
+    "summary": "补充课59",
+    "content": "# 补充课59\n\n补充课59内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0168"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-169",
+    "courseId": "sb-course-04",
+    "order": 13,
+    "title": "补充课60",
+    "slug": "补充课60",
+    "summary": "补充课60",
+    "content": "# 补充课60\n\n补充课60内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0169"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-170",
+    "courseId": "sb-course-05",
+    "order": 12,
+    "title": "补充课61",
+    "slug": "补充课61",
+    "summary": "补充课61",
+    "content": "# 补充课61\n\n补充课61内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0170"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-171",
+    "courseId": "sb-course-06",
+    "order": 14,
+    "title": "补充课62",
+    "slug": "补充课62",
+    "summary": "补充课62",
+    "content": "# 补充课62\n\n补充课62内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0171"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-172",
+    "courseId": "sb-course-07",
+    "order": 12,
+    "title": "补充课63",
+    "slug": "补充课63",
+    "summary": "补充课63",
+    "content": "# 补充课63\n\n补充课63内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0172"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-173",
+    "courseId": "sb-course-08",
+    "order": 13,
+    "title": "补充课64",
+    "slug": "补充课64",
+    "summary": "补充课64",
+    "content": "# 补充课64\n\n补充课64内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0173"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-174",
+    "courseId": "sb-course-09",
+    "order": 15,
+    "title": "补充课65",
+    "slug": "补充课65",
+    "summary": "补充课65",
+    "content": "# 补充课65\n\n补充课65内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0174"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-175",
+    "courseId": "sb-course-10",
+    "order": 12,
+    "title": "补充课66",
+    "slug": "补充课66",
+    "summary": "补充课66",
+    "content": "# 补充课66\n\n补充课66内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0175"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-176",
+    "courseId": "sb-course-11",
+    "order": 14,
+    "title": "补充课67",
+    "slug": "补充课67",
+    "summary": "补充课67",
+    "content": "# 补充课67\n\n补充课67内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0176"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-177",
+    "courseId": "sb-course-12",
+    "order": 14,
+    "title": "补充课68",
+    "slug": "补充课68",
+    "summary": "补充课68",
+    "content": "# 补充课68\n\n补充课68内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0177"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-178",
+    "courseId": "sb-course-13",
+    "order": 11,
+    "title": "补充课69",
+    "slug": "补充课69",
+    "summary": "补充课69",
+    "content": "# 补充课69\n\n补充课69内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0178"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-179",
+    "courseId": "sb-course-14",
+    "order": 14,
+    "title": "补充课70",
+    "slug": "补充课70",
+    "summary": "补充课70",
+    "content": "# 补充课70\n\n补充课70内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "sb-kp-0179"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-lesson-180",
+    "courseId": "sb-course-14",
+    "order": 1,
+    "title": "补课资源",
+    "slug": "bkzy",
+    "summary": "补课",
+    "content": "#补课",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "SpringBoot"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

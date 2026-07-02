@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "sb-route-01",
+    "slug": "7天SpringBoot入门",
+    "title": "7天SpringBoot入门",
+    "description": "7天SpringBoot入门",
+    "summary": "7天SpringBoot入门",
+    "targetUser": "快速入门",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-02",
+    "slug": "14天RESTAPI",
+    "title": "14天RESTAPI",
+    "description": "14天RESTAPI",
+    "summary": "14天RESTAPI",
+    "targetUser": "RESTAPI",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-03",
+    "slug": "21天数据访问",
+    "title": "21天数据访问",
+    "description": "21天数据访问",
+    "summary": "21天数据访问",
+    "targetUser": "MyBatis",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-04",
+    "slug": "30天安全与部署",
+    "title": "30天安全与部署",
+    "description": "30天安全与部署",
+    "summary": "30天安全与部署",
+    "targetUser": "JWT部署",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-05",
+    "slug": "45天项目实战",
+    "title": "45天项目实战",
+    "description": "45天项目实战",
+    "summary": "45天项目实战",
+    "targetUser": "项目实战",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-06",
+    "slug": "60天SpringBoot面试",
+    "title": "60天SpringBoot面试",
+    "description": "60天SpringBoot面试",
+    "summary": "60天SpringBoot面试",
+    "targetUser": "面试",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-07",
+    "slug": "SpringBoot概念专项",
+    "title": "SpringBoot概念专项",
+    "description": "SpringBoot概念专项",
+    "summary": "SpringBoot概念专项",
+    "targetUser": "基础概念",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-08",
+    "slug": "Controller专项",
+    "title": "Controller专项",
+    "description": "Controller专项",
+    "summary": "Controller专项",
+    "targetUser": "RESTAPI",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-09",
+    "slug": "MyBatis专项",
+    "title": "MyBatis专项",
+    "description": "MyBatis专项",
+    "summary": "MyBatis专项",
+    "targetUser": "MyBatis",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-10",
+    "slug": "事务专项",
+    "title": "事务专项",
+    "description": "事务专项",
+    "summary": "事务专项",
+    "targetUser": "事务",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-11",
+    "slug": "JWT专项",
+    "title": "JWT专项",
+    "description": "JWT专项",
+    "summary": "JWT专项",
+    "targetUser": "JWT",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-12",
+    "slug": "异常处理专项",
+    "title": "异常处理专项",
+    "description": "异常处理专项",
+    "summary": "异常处理专项",
+    "targetUser": "异常",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-13",
+    "slug": "项目实战专项",
+    "title": "项目实战专项",
+    "description": "项目实战专项",
+    "summary": "项目实战专项",
+    "targetUser": "实战",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-14",
+    "slug": "接口文档专项",
+    "title": "接口文档专项",
+    "description": "接口文档专项",
+    "summary": "接口文档专项",
+    "targetUser": "Swagger",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-15",
+    "slug": "面试专项",
+    "title": "面试专项",
+    "description": "面试专项",
+    "summary": "面试专项",
+    "targetUser": "面试",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-16",
+    "slug": "部署专项",
+    "title": "部署专项",
+    "description": "部署专项",
+    "summary": "部署专项",
+    "targetUser": "部署",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-17",
+    "slug": "SpringBoot复习",
+    "title": "SpringBoot复习",
+    "description": "SpringBoot复习",
+    "summary": "SpringBoot复习",
+    "targetUser": "复习",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-18",
+    "slug": "MyBatis复习",
+    "title": "MyBatis复习",
+    "description": "MyBatis复习",
+    "summary": "MyBatis复习",
+    "targetUser": "MyBatis",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-19",
+    "slug": "JWT复习",
+    "title": "JWT复习",
+    "description": "JWT复习",
+    "summary": "JWT复习",
+    "targetUser": "JWT",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-20",
+    "slug": "项目部署复习",
+    "title": "项目部署复习",
+    "description": "项目部署复习",
+    "summary": "项目部署复习",
+    "targetUser": "部署",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-21",
+    "slug": "SpringCloud入门",
+    "title": "SpringCloud入门",
+    "description": "SpringCloud入门",
+    "summary": "SpringCloud入门",
+    "targetUser": "微服务",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-22",
+    "slug": "Redis集成",
+    "title": "Redis集成",
+    "description": "Redis集成",
+    "summary": "Redis集成",
+    "targetUser": "Redis",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-23",
+    "slug": "消息队列入门",
+    "title": "消息队列入门",
+    "description": "消息队列入门",
+    "summary": "消息队列入门",
+    "targetUser": "MQ",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-24",
+    "slug": "Docker+K8s",
+    "title": "Docker+K8s",
+    "description": "Docker+K8s",
+    "summary": "Docker+K8s",
+    "targetUser": "容器",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-25",
+    "slug": "CI/CD入门",
+    "title": "CI/CD入门",
+    "description": "CI/CD入门",
+    "summary": "CI/CD入门",
+    "targetUser": "CI/CD",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-26",
+    "slug": "SpringBoot大总结",
+    "title": "SpringBoot大总结",
+    "description": "SpringBoot大总结",
+    "summary": "SpringBoot大总结",
+    "targetUser": "总结",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Spring Boot 入门与后端开发路线",
+        "courseId": "sb-course-01",
+        "lessonId": "sb-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习Spring Boot 项目结构与启动流程",
+        "courseId": "sb-course-02",
+        "lessonId": "sb-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习Controller、RequestMapping与REST API",
+        "courseId": "sb-course-03",
+        "lessonId": "sb-lesson-010"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习参数接收、数据绑定与响应封装",
+        "courseId": "sb-course-04",
+        "lessonId": "sb-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习Service 层、Repository 层与项目分层",
+        "courseId": "sb-course-05",
+        "lessonId": "sb-lesson-021"
+      }
+    ],
+    "recommendedCourseIds": [
+      "sb-course-01",
+      "sb-course-02",
+      "sb-course-03",
+      "sb-course-04",
+      "sb-course-05"
+    ],
+    "recommendedLessonIds": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004",
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009",
+      "sb-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握SpringBoot",
+      "能构建REST API",
+      "会用MyBatis",
+      "具备项目能力"
+    ]
+  },
+  {
+    "id": "sb-route-27",
+    "slug": "IOCAOP专项",
+    "title": "IOCAOP专项",
+    "description": "IOCAOP专项",
+    "summary": "IOCAOP专项",
+    "targetUser": "IOCAOP",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-28",
+    "slug": "SpringData专项",
+    "title": "SpringData专项",
+    "description": "SpringData专项",
+    "summary": "SpringData专项",
+    "targetUser": "数据",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-29",
+    "slug": "OAuth2入门",
+    "title": "OAuth2入门",
+    "description": "OAuth2入门",
+    "summary": "OAuth2入门",
+    "targetUser": "OAuth2",
+    "durationDays": 7,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-30",
+    "slug": "SpringSecurity入门",
+    "title": "SpringSecurity入门",
+    "description": "SpringSecurity入门",
+    "summary": "SpringSecurity入门",
+    "targetUser": "安全",
+    "durationDays": 7,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-31",
+    "slug": "微服务基础",
+    "title": "微服务基础",
+    "description": "微服务基础",
+    "summary": "微服务基础",
+    "targetUser": "微服务",
+    "durationDays": 10,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-32",
+    "slug": "网关Gateway",
+    "title": "网关Gateway",
+    "description": "网关Gateway",
+    "summary": "网关Gateway",
+    "targetUser": "网关",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-33",
+    "slug": "Sentinel限流",
+    "title": "Sentinel限流",
+    "description": "Sentinel限流",
+    "summary": "Sentinel限流",
+    "targetUser": "限流",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-34",
+    "slug": "Nacos配置",
+    "title": "Nacos配置",
+    "description": "Nacos配置",
+    "summary": "Nacos配置",
+    "targetUser": "配置中心",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  },
+  {
+    "id": "sb-route-35",
+    "slug": "Feign远程调用",
+    "title": "Feign远程调用",
+    "description": "Feign远程调用",
+    "summary": "Feign远程调用",
+    "targetUser": "Feign",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握相关技能"
+    ]
+  }
+]

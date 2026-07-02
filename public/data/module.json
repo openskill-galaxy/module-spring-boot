@@ -1,0 +1,41 @@
+{
+  "id": "mod-spring-boot",
+  "slug": "module-spring-boot",
+  "title": "Spring Boot 后端项目实战",
+  "subtitle": "面向Java后端开发入门者",
+  "description": "面向Java后端开发入门者的SpringBootREST APIControllerServiceMyBatis事务参数校验异常处理登录鉴权JWT接口文档测试部署与项目实战训练静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "SpringBoot",
+    "Java后端",
+    "RESTAPI",
+    "MyBatis",
+    "JWT",
+    "事务",
+    "接口文档",
+    "项目实战"
+  ],
+  "estimatedHours": 180,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🍃",
+  "repoUrl": "https://github.com/openskill-galaxy/module-spring-boot",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 82,
+    "knowledgePoints": 699,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 26,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 286
+  }
+}

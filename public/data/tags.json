@@ -1,0 +1,2850 @@
+[
+  {
+    "id": "sb-tag-001",
+    "name": "SpringBoot",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringBoot",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-002",
+    "name": "Spring",
+    "category": "SpringBoot",
+    "description": "SB标签：Spring",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-003",
+    "name": "Framework",
+    "category": "SpringBoot",
+    "description": "SB标签：Framework",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-004",
+    "name": "REST",
+    "category": "SpringBoot",
+    "description": "SB标签：REST",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-005",
+    "name": "API",
+    "category": "SpringBoot",
+    "description": "SB标签：API",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-006",
+    "name": "IoC",
+    "category": "SpringBoot",
+    "description": "SB标签：IoC",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-007",
+    "name": "DI",
+    "category": "SpringBoot",
+    "description": "SB标签：DI",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-008",
+    "name": "Bean",
+    "category": "SpringBoot",
+    "description": "SB标签：Bean",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-009",
+    "name": "自动配置",
+    "category": "SpringBoot",
+    "description": "SB标签：自动配置",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-010",
+    "name": "起步依赖",
+    "category": "SpringBoot",
+    "description": "SB标签：起步依赖",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-011",
+    "name": "starter",
+    "category": "SpringBoot",
+    "description": "SB标签：starter",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-012",
+    "name": "Maven",
+    "category": "SpringBoot",
+    "description": "SB标签：Maven",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-013",
+    "name": "Gradle",
+    "category": "SpringBoot",
+    "description": "SB标签：Gradle",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-014",
+    "name": "pom.xml",
+    "category": "SpringBoot",
+    "description": "SB标签：pom.xml",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-015",
+    "name": "application.yml",
+    "category": "SpringBoot",
+    "description": "SB标签：application.yml",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-016",
+    "name": "application.properties",
+    "category": "SpringBoot",
+    "description": "SB标签：application.properties",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-017",
+    "name": "多环境配置",
+    "category": "SpringBoot",
+    "description": "SB标签：多环境配置",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-018",
+    "name": "Profile",
+    "category": "SpringBoot",
+    "description": "SB标签：Profile",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-019",
+    "name": "DevTools",
+    "category": "SpringBoot",
+    "description": "SB标签：DevTools",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-020",
+    "name": "Actuator",
+    "category": "SpringBoot",
+    "description": "SB标签：Actuator",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-021",
+    "name": "内嵌Tomcat",
+    "category": "SpringBoot",
+    "description": "SB标签：内嵌Tomcat",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-022",
+    "name": "内嵌Jetty",
+    "category": "SpringBoot",
+    "description": "SB标签：内嵌Jetty",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-023",
+    "name": "内嵌Undertow",
+    "category": "SpringBoot",
+    "description": "SB标签：内嵌Undertow",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-024",
+    "name": "启动类",
+    "category": "SpringBoot",
+    "description": "SB标签：启动类",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-025",
+    "name": "@SpringBootApplication",
+    "category": "SpringBoot",
+    "description": "SB标签：@SpringBootApplication",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-026",
+    "name": "@Component",
+    "category": "SpringBoot",
+    "description": "SB标签：@Component",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-027",
+    "name": "@Service",
+    "category": "SpringBoot",
+    "description": "SB标签：@Service",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-028",
+    "name": "@Repository",
+    "category": "SpringBoot",
+    "description": "SB标签：@Repository",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-029",
+    "name": "@Controller",
+    "category": "SpringBoot",
+    "description": "SB标签：@Controller",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-030",
+    "name": "@RestController",
+    "category": "SpringBoot",
+    "description": "SB标签：@RestController",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-031",
+    "name": "@RequestMapping",
+    "category": "SpringBoot",
+    "description": "SB标签：@RequestMapping",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-032",
+    "name": "@GetMapping",
+    "category": "SpringBoot",
+    "description": "SB标签：@GetMapping",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-033",
+    "name": "@PostMapping",
+    "category": "SpringBoot",
+    "description": "SB标签：@PostMapping",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-034",
+    "name": "@PutMapping",
+    "category": "SpringBoot",
+    "description": "SB标签：@PutMapping",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-035",
+    "name": "@DeleteMapping",
+    "category": "SpringBoot",
+    "description": "SB标签：@DeleteMapping",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-036",
+    "name": "@PatchMapping",
+    "category": "SpringBoot",
+    "description": "SB标签：@PatchMapping",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-037",
+    "name": "@PathVariable",
+    "category": "SpringBoot",
+    "description": "SB标签：@PathVariable",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-038",
+    "name": "@RequestParam",
+    "category": "SpringBoot",
+    "description": "SB标签：@RequestParam",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-039",
+    "name": "@RequestBody",
+    "category": "SpringBoot",
+    "description": "SB标签：@RequestBody",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-040",
+    "name": "@ResponseBody",
+    "category": "SpringBoot",
+    "description": "SB标签：@ResponseBody",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-041",
+    "name": "@ResponseStatus",
+    "category": "SpringBoot",
+    "description": "SB标签：@ResponseStatus",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-042",
+    "name": "@CrossOrigin",
+    "category": "SpringBoot",
+    "description": "SB标签：@CrossOrigin",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-043",
+    "name": "请求映射",
+    "category": "SpringBoot",
+    "description": "SB标签：请求映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-044",
+    "name": "JSON响应",
+    "category": "SpringBoot",
+    "description": "SB标签：JSON响应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-045",
+    "name": "统一响应",
+    "category": "SpringBoot",
+    "description": "SB标签：统一响应",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-046",
+    "name": "Result",
+    "category": "SpringBoot",
+    "description": "SB标签：Result",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-047",
+    "name": "code",
+    "category": "SpringBoot",
+    "description": "SB标签：code",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-048",
+    "name": "message",
+    "category": "SpringBoot",
+    "description": "SB标签：message",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-049",
+    "name": "data",
+    "category": "SpringBoot",
+    "description": "SB标签：data",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-050",
+    "name": "ResponseEntity",
+    "category": "SpringBoot",
+    "description": "SB标签：ResponseEntity",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-051",
+    "name": "HttpStatus",
+    "category": "SpringBoot",
+    "description": "SB标签：HttpStatus",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-052",
+    "name": "DTO",
+    "category": "SpringBoot",
+    "description": "SB标签：DTO",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-053",
+    "name": "VO",
+    "category": "SpringBoot",
+    "description": "SB标签：VO",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-054",
+    "name": "Entity",
+    "category": "SpringBoot",
+    "description": "SB标签：Entity",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-055",
+    "name": "POJO",
+    "category": "SpringBoot",
+    "description": "SB标签：POJO",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-056",
+    "name": "DO",
+    "category": "SpringBoot",
+    "description": "SB标签：DO",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-057",
+    "name": "Converter",
+    "category": "SpringBoot",
+    "description": "SB标签：Converter",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-058",
+    "name": "MapStruct",
+    "category": "SpringBoot",
+    "description": "SB标签：MapStruct",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-059",
+    "name": "ModelMapper",
+    "category": "SpringBoot",
+    "description": "SB标签：ModelMapper",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-060",
+    "name": "分层架构",
+    "category": "SpringBoot",
+    "description": "SB标签：分层架构",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-061",
+    "name": "Controller层",
+    "category": "SpringBoot",
+    "description": "SB标签：Controller层",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-062",
+    "name": "Service层",
+    "category": "SpringBoot",
+    "description": "SB标签：Service层",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-063",
+    "name": "ServiceImpl",
+    "category": "SpringBoot",
+    "description": "SB标签：ServiceImpl",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-064",
+    "name": "Mapper层",
+    "category": "SpringBoot",
+    "description": "SB标签：Mapper层",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-065",
+    "name": "Repository层",
+    "category": "SpringBoot",
+    "description": "SB标签：Repository层",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-066",
+    "name": "DAO层",
+    "category": "SpringBoot",
+    "description": "SB标签：DAO层",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-067",
+    "name": "数据源",
+    "category": "SpringBoot",
+    "description": "SB标签：数据源",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-068",
+    "name": "连接池",
+    "category": "SpringBoot",
+    "description": "SB标签：连接池",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-069",
+    "name": "HikariCP",
+    "category": "SpringBoot",
+    "description": "SB标签：HikariCP",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-070",
+    "name": "Druid",
+    "category": "SpringBoot",
+    "description": "SB标签：Druid",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-071",
+    "name": "JDBC",
+    "category": "SpringBoot",
+    "description": "SB标签：JDBC",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-072",
+    "name": "JdbcTemplate",
+    "category": "SpringBoot",
+    "description": "SB标签：JdbcTemplate",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-073",
+    "name": "MyBatis",
+    "category": "SpringBoot",
+    "description": "SB标签：MyBatis",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-074",
+    "name": "MyBatisPlus",
+    "category": "SpringBoot",
+    "description": "SB标签：MyBatisPlus",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-075",
+    "name": "JPA",
+    "category": "SpringBoot",
+    "description": "SB标签：JPA",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-076",
+    "name": "Hibernate",
+    "category": "SpringBoot",
+    "description": "SB标签：Hibernate",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-077",
+    "name": "SpringData",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringData",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-078",
+    "name": "RedisCache",
+    "category": "SpringBoot",
+    "description": "SB标签：RedisCache",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-079",
+    "name": "ORM",
+    "category": "SpringBoot",
+    "description": "SB标签：ORM",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-080",
+    "name": "对象关系映射",
+    "category": "SpringBoot",
+    "description": "SB标签：对象关系映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-081",
+    "name": "SQL映射",
+    "category": "SpringBoot",
+    "description": "SB标签：SQL映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-082",
+    "name": "XML映射",
+    "category": "SpringBoot",
+    "description": "SB标签：XML映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-083",
+    "name": "注解SQL",
+    "category": "SpringBoot",
+    "description": "SB标签：注解SQL",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-084",
+    "name": "@Select",
+    "category": "SpringBoot",
+    "description": "SB标签：@Select",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-085",
+    "name": "@Insert",
+    "category": "SpringBoot",
+    "description": "SB标签：@Insert",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-086",
+    "name": "@Update",
+    "category": "SpringBoot",
+    "description": "SB标签：@Update",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-087",
+    "name": "@Delete",
+    "category": "SpringBoot",
+    "description": "SB标签：@Delete",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-088",
+    "name": "@Mapper",
+    "category": "SpringBoot",
+    "description": "SB标签：@Mapper",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-089",
+    "name": "@MapperScan",
+    "category": "SpringBoot",
+    "description": "SB标签：@MapperScan",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-090",
+    "name": "@Param",
+    "category": "SpringBoot",
+    "description": "SB标签：@Param",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-091",
+    "name": "@Options",
+    "category": "SpringBoot",
+    "description": "SB标签：@Options",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-092",
+    "name": "结果映射",
+    "category": "SpringBoot",
+    "description": "SB标签：结果映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-093",
+    "name": "resultMap",
+    "category": "SpringBoot",
+    "description": "SB标签：resultMap",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-094",
+    "name": "关联查询",
+    "category": "SpringBoot",
+    "description": "SB标签：关联查询",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-095",
+    "name": "一对一",
+    "category": "SpringBoot",
+    "description": "SB标签：一对一",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-096",
+    "name": "一对多",
+    "category": "SpringBoot",
+    "description": "SB标签：一对多",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-097",
+    "name": "多对多",
+    "category": "SpringBoot",
+    "description": "SB标签：多对多",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-098",
+    "name": "分页",
+    "category": "SpringBoot",
+    "description": "SB标签：分页",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-099",
+    "name": "PageHelper",
+    "category": "SpringBoot",
+    "description": "SB标签：PageHelper",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-100",
+    "name": "分页查询",
+    "category": "SpringBoot",
+    "description": "SB标签：分页查询",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-101",
+    "name": "条件查询",
+    "category": "SpringBoot",
+    "description": "SB标签：条件查询",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-102",
+    "name": "动态SQL",
+    "category": "SpringBoot",
+    "description": "SB标签：动态SQL",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-103",
+    "name": "<if>",
+    "category": "SpringBoot",
+    "description": "SB标签：<if>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-104",
+    "name": "<where>",
+    "category": "SpringBoot",
+    "description": "SB标签：<where>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-105",
+    "name": "<foreach>",
+    "category": "SpringBoot",
+    "description": "SB标签：<foreach>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-106",
+    "name": "<set>",
+    "category": "SpringBoot",
+    "description": "SB标签：<set>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-107",
+    "name": "<choose>",
+    "category": "SpringBoot",
+    "description": "SB标签：<choose>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-108",
+    "name": "<when>",
+    "category": "SpringBoot",
+    "description": "SB标签：<when>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-109",
+    "name": "<otherwise>",
+    "category": "SpringBoot",
+    "description": "SB标签：<otherwise>",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-110",
+    "name": "事务",
+    "category": "SpringBoot",
+    "description": "SB标签：事务",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-111",
+    "name": "@Transactional",
+    "category": "SpringBoot",
+    "description": "SB标签：@Transactional",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-112",
+    "name": "事务传播",
+    "category": "SpringBoot",
+    "description": "SB标签：事务传播",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-113",
+    "name": "事务隔离",
+    "category": "SpringBoot",
+    "description": "SB标签：事务隔离",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-114",
+    "name": "回滚",
+    "category": "SpringBoot",
+    "description": "SB标签：回滚",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-115",
+    "name": "只读事务",
+    "category": "SpringBoot",
+    "description": "SB标签：只读事务",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-116",
+    "name": "超时",
+    "category": "SpringBoot",
+    "description": "SB标签：超时",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-117",
+    "name": "参数校验",
+    "category": "SpringBoot",
+    "description": "SB标签：参数校验",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-118",
+    "name": "@Valid",
+    "category": "SpringBoot",
+    "description": "SB标签：@Valid",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-119",
+    "name": "@Validated",
+    "category": "SpringBoot",
+    "description": "SB标签：@Validated",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-120",
+    "name": "@NotNull",
+    "category": "SpringBoot",
+    "description": "SB标签：@NotNull",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-121",
+    "name": "@NotBlank",
+    "category": "SpringBoot",
+    "description": "SB标签：@NotBlank",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-122",
+    "name": "@Size",
+    "category": "SpringBoot",
+    "description": "SB标签：@Size",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-123",
+    "name": "@Min",
+    "category": "SpringBoot",
+    "description": "SB标签：@Min",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-124",
+    "name": "@Max",
+    "category": "SpringBoot",
+    "description": "SB标签：@Max",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-125",
+    "name": "@Email",
+    "category": "SpringBoot",
+    "description": "SB标签：@Email",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-126",
+    "name": "@Pattern",
+    "category": "SpringBoot",
+    "description": "SB标签：@Pattern",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-127",
+    "name": "@AssertTrue",
+    "category": "SpringBoot",
+    "description": "SB标签：@AssertTrue",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-128",
+    "name": "@Future",
+    "category": "SpringBoot",
+    "description": "SB标签：@Future",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-129",
+    "name": "@Past",
+    "category": "SpringBoot",
+    "description": "SB标签：@Past",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-130",
+    "name": "自定义校验",
+    "category": "SpringBoot",
+    "description": "SB标签：自定义校验",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-131",
+    "name": "分组校验",
+    "category": "SpringBoot",
+    "description": "SB标签：分组校验",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-132",
+    "name": "全局异常处理",
+    "category": "SpringBoot",
+    "description": "SB标签：全局异常处理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-133",
+    "name": "@ControllerAdvice",
+    "category": "SpringBoot",
+    "description": "SB标签：@ControllerAdvice",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-134",
+    "name": "@ExceptionHandler",
+    "category": "SpringBoot",
+    "description": "SB标签：@ExceptionHandler",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-135",
+    "name": "@RestControllerAdvice",
+    "category": "SpringBoot",
+    "description": "SB标签：@RestControllerAdvice",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-136",
+    "name": "自定义异常",
+    "category": "SpringBoot",
+    "description": "SB标签：自定义异常",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-137",
+    "name": "业务异常",
+    "category": "SpringBoot",
+    "description": "SB标签：业务异常",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-138",
+    "name": "错误码",
+    "category": "SpringBoot",
+    "description": "SB标签：错误码",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-139",
+    "name": "统一异常返回",
+    "category": "SpringBoot",
+    "description": "SB标签：统一异常返回",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-140",
+    "name": "日志",
+    "category": "SpringBoot",
+    "description": "SB标签：日志",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-141",
+    "name": "Logback",
+    "category": "SpringBoot",
+    "description": "SB标签：Logback",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-142",
+    "name": "SLF4J",
+    "category": "SpringBoot",
+    "description": "SB标签：SLF4J",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-143",
+    "name": "日志级别",
+    "category": "SpringBoot",
+    "description": "SB标签：日志级别",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-144",
+    "name": "日志配置",
+    "category": "SpringBoot",
+    "description": "SB标签：日志配置",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-145",
+    "name": "请求日志",
+    "category": "SpringBoot",
+    "description": "SB标签：请求日志",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-146",
+    "name": "切面日志",
+    "category": "SpringBoot",
+    "description": "SB标签：切面日志",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-147",
+    "name": "AOP",
+    "category": "SpringBoot",
+    "description": "SB标签：AOP",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-148",
+    "name": "@Aspect",
+    "category": "SpringBoot",
+    "description": "SB标签：@Aspect",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-149",
+    "name": "@Before",
+    "category": "SpringBoot",
+    "description": "SB标签：@Before",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-150",
+    "name": "@After",
+    "category": "SpringBoot",
+    "description": "SB标签：@After",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-151",
+    "name": "@Around",
+    "category": "SpringBoot",
+    "description": "SB标签：@Around",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-152",
+    "name": "@Pointcut",
+    "category": "SpringBoot",
+    "description": "SB标签：@Pointcut",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-153",
+    "name": "切入点",
+    "category": "SpringBoot",
+    "description": "SB标签：切入点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-154",
+    "name": "通知",
+    "category": "SpringBoot",
+    "description": "SB标签：通知",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-155",
+    "name": "连接点",
+    "category": "SpringBoot",
+    "description": "SB标签：连接点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-156",
+    "name": "切面编程",
+    "category": "SpringBoot",
+    "description": "SB标签：切面编程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-157",
+    "name": "登录认证",
+    "category": "SpringBoot",
+    "description": "SB标签：登录认证",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-158",
+    "name": "Session",
+    "category": "SpringBoot",
+    "description": "SB标签：Session",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-159",
+    "name": "Cookie",
+    "category": "SpringBoot",
+    "description": "SB标签：Cookie",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-160",
+    "name": "Token",
+    "category": "SpringBoot",
+    "description": "SB标签：Token",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-161",
+    "name": "JWT",
+    "category": "SpringBoot",
+    "description": "SB标签：JWT",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-162",
+    "name": "JJWT",
+    "category": "SpringBoot",
+    "description": "SB标签：JJWT",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-163",
+    "name": "拦截器",
+    "category": "SpringBoot",
+    "description": "SB标签：拦截器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-164",
+    "name": "HandlerInterceptor",
+    "category": "SpringBoot",
+    "description": "SB标签：HandlerInterceptor",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-165",
+    "name": "WebMvcConfig",
+    "category": "SpringBoot",
+    "description": "SB标签：WebMvcConfig",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-166",
+    "name": "Filter",
+    "category": "SpringBoot",
+    "description": "SB标签：Filter",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-167",
+    "name": "过滤器",
+    "category": "SpringBoot",
+    "description": "SB标签：过滤器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-168",
+    "name": "跨域",
+    "category": "SpringBoot",
+    "description": "SB标签：跨域",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-169",
+    "name": "CORS",
+    "category": "SpringBoot",
+    "description": "SB标签：CORS",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-170",
+    "name": "同源策略",
+    "category": "SpringBoot",
+    "description": "SB标签：同源策略",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-171",
+    "name": "安全配置",
+    "category": "SpringBoot",
+    "description": "SB标签：安全配置",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-172",
+    "name": "SpringSecurity",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringSecurity",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-173",
+    "name": "Shiro",
+    "category": "SpringBoot",
+    "description": "SB标签：Shiro",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-174",
+    "name": "OAuth2",
+    "category": "SpringBoot",
+    "description": "SB标签：OAuth2",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-175",
+    "name": "权限控制",
+    "category": "SpringBoot",
+    "description": "SB标签：权限控制",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-176",
+    "name": "角色",
+    "category": "SpringBoot",
+    "description": "SB标签：角色",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-177",
+    "name": "权限",
+    "category": "SpringBoot",
+    "description": "SB标签：权限",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-178",
+    "name": "用户认证",
+    "category": "SpringBoot",
+    "description": "SB标签：用户认证",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-179",
+    "name": "密码加密",
+    "category": "SpringBoot",
+    "description": "SB标签：密码加密",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-180",
+    "name": "BCryptPasswordEncoder",
+    "category": "SpringBoot",
+    "description": "SB标签：BCryptPasswordEncoder",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-181",
+    "name": "文件上传",
+    "category": "SpringBoot",
+    "description": "SB标签：文件上传",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-182",
+    "name": "MultipartFile",
+    "category": "SpringBoot",
+    "description": "SB标签：MultipartFile",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-183",
+    "name": "文件存储",
+    "category": "SpringBoot",
+    "description": "SB标签：文件存储",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-184",
+    "name": "静态资源",
+    "category": "SpringBoot",
+    "description": "SB标签：静态资源",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-185",
+    "name": "静态资源配置",
+    "category": "SpringBoot",
+    "description": "SB标签：静态资源配置",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-186",
+    "name": "资源映射",
+    "category": "SpringBoot",
+    "description": "SB标签：资源映射",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-187",
+    "name": "接口文档",
+    "category": "SpringBoot",
+    "description": "SB标签：接口文档",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-188",
+    "name": "Swagger",
+    "category": "SpringBoot",
+    "description": "SB标签：Swagger",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-189",
+    "name": "OpenAPI",
+    "category": "SpringBoot",
+    "description": "SB标签：OpenAPI",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-190",
+    "name": "Knife4j",
+    "category": "SpringBoot",
+    "description": "SB标签：Knife4j",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-191",
+    "name": "@Api",
+    "category": "SpringBoot",
+    "description": "SB标签：@Api",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-192",
+    "name": "@ApiOperation",
+    "category": "SpringBoot",
+    "description": "SB标签：@ApiOperation",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-193",
+    "name": "@ApiParam",
+    "category": "SpringBoot",
+    "description": "SB标签：@ApiParam",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-194",
+    "name": "@ApiModel",
+    "category": "SpringBoot",
+    "description": "SB标签：@ApiModel",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-195",
+    "name": "@ApiModelProperty",
+    "category": "SpringBoot",
+    "description": "SB标签：@ApiModelProperty",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-196",
+    "name": "单元测试",
+    "category": "SpringBoot",
+    "description": "SB标签：单元测试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-197",
+    "name": "JUnit4",
+    "category": "SpringBoot",
+    "description": "SB标签：JUnit4",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-198",
+    "name": "JUnit5",
+    "category": "SpringBoot",
+    "description": "SB标签：JUnit5",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-199",
+    "name": "Mockito",
+    "category": "SpringBoot",
+    "description": "SB标签：Mockito",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-200",
+    "name": "MockMvc",
+    "category": "SpringBoot",
+    "description": "SB标签：MockMvc",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-201",
+    "name": "WebMvcTest",
+    "category": "SpringBoot",
+    "description": "SB标签：WebMvcTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-202",
+    "name": "SpringBootTest",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringBootTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-203",
+    "name": "集成测试",
+    "category": "SpringBoot",
+    "description": "SB标签：集成测试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-204",
+    "name": "测试覆盖率",
+    "category": "SpringBoot",
+    "description": "SB标签：测试覆盖率",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-205",
+    "name": "Postman",
+    "category": "SpringBoot",
+    "description": "SB标签：Postman",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-206",
+    "name": "调试",
+    "category": "SpringBoot",
+    "description": "SB标签：调试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-207",
+    "name": "部署",
+    "category": "SpringBoot",
+    "description": "SB标签：部署",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-208",
+    "name": "构建",
+    "category": "SpringBoot",
+    "description": "SB标签：构建",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-209",
+    "name": "JAR",
+    "category": "SpringBoot",
+    "description": "SB标签：JAR",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-210",
+    "name": "WAR",
+    "category": "SpringBoot",
+    "description": "SB标签：WAR",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-211",
+    "name": "Maven打包",
+    "category": "SpringBoot",
+    "description": "SB标签：Maven打包",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-212",
+    "name": "服务器",
+    "category": "SpringBoot",
+    "description": "SB标签：服务器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-213",
+    "name": "Linux",
+    "category": "SpringBoot",
+    "description": "SB标签：Linux",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-214",
+    "name": "Nginx",
+    "category": "SpringBoot",
+    "description": "SB标签：Nginx",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-215",
+    "name": "反向代理",
+    "category": "SpringBoot",
+    "description": "SB标签：反向代理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-216",
+    "name": "Docker",
+    "category": "SpringBoot",
+    "description": "SB标签：Docker",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-217",
+    "name": "Dockerfile",
+    "category": "SpringBoot",
+    "description": "SB标签：Dockerfile",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-218",
+    "name": "镜像",
+    "category": "SpringBoot",
+    "description": "SB标签：镜像",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-219",
+    "name": "容器",
+    "category": "SpringBoot",
+    "description": "SB标签：容器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-220",
+    "name": "docker-compose",
+    "category": "SpringBoot",
+    "description": "SB标签：docker-compose",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-221",
+    "name": "云部署",
+    "category": "SpringBoot",
+    "description": "SB标签：云部署",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-222",
+    "name": "项目实战",
+    "category": "SpringBoot",
+    "description": "SB标签：项目实战",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-223",
+    "name": "CRUD",
+    "category": "SpringBoot",
+    "description": "SB标签：CRUD",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-224",
+    "name": "用户管理",
+    "category": "SpringBoot",
+    "description": "SB标签：用户管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-225",
+    "name": "角色管理",
+    "category": "SpringBoot",
+    "description": "SB标签：角色管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-226",
+    "name": "权限管理",
+    "category": "SpringBoot",
+    "description": "SB标签：权限管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-227",
+    "name": "文章管理",
+    "category": "SpringBoot",
+    "description": "SB标签：文章管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-228",
+    "name": "分类管理",
+    "category": "SpringBoot",
+    "description": "SB标签：分类管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-229",
+    "name": "评论管理",
+    "category": "SpringBoot",
+    "description": "SB标签：评论管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-230",
+    "name": "订单管理",
+    "category": "SpringBoot",
+    "description": "SB标签：订单管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-231",
+    "name": "商品管理",
+    "category": "SpringBoot",
+    "description": "SB标签：商品管理",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-232",
+    "name": "购物车",
+    "category": "SpringBoot",
+    "description": "SB标签：购物车",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-233",
+    "name": "支付",
+    "category": "SpringBoot",
+    "description": "SB标签：支付",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-234",
+    "name": "博客系统",
+    "category": "SpringBoot",
+    "description": "SB标签：博客系统",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-235",
+    "name": "管理系统",
+    "category": "SpringBoot",
+    "description": "SB标签：管理系统",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-236",
+    "name": "企业项目",
+    "category": "SpringBoot",
+    "description": "SB标签：企业项目",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-237",
+    "name": "代码生成器",
+    "category": "SpringBoot",
+    "description": "SB标签：代码生成器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-238",
+    "name": "MyBatisX",
+    "category": "SpringBoot",
+    "description": "SB标签：MyBatisX",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-239",
+    "name": "逆向工程",
+    "category": "SpringBoot",
+    "description": "SB标签：逆向工程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-240",
+    "name": "通用Mapper",
+    "category": "SpringBoot",
+    "description": "SB标签：通用Mapper",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-241",
+    "name": "多数据源",
+    "category": "SpringBoot",
+    "description": "SB标签：多数据源",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-242",
+    "name": "读写分离",
+    "category": "SpringBoot",
+    "description": "SB标签：读写分离",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-243",
+    "name": "分布式事务",
+    "category": "SpringBoot",
+    "description": "SB标签：分布式事务",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-244",
+    "name": "缓存",
+    "category": "SpringBoot",
+    "description": "SB标签：缓存",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-245",
+    "name": "Redis",
+    "category": "SpringBoot",
+    "description": "SB标签：Redis",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-246",
+    "name": "SpringCache",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringCache",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-247",
+    "name": "@Cacheable",
+    "category": "SpringBoot",
+    "description": "SB标签：@Cacheable",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-248",
+    "name": "@CacheEvict",
+    "category": "SpringBoot",
+    "description": "SB标签：@CacheEvict",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-249",
+    "name": "@CachePut",
+    "category": "SpringBoot",
+    "description": "SB标签：@CachePut",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-250",
+    "name": "消息队列",
+    "category": "SpringBoot",
+    "description": "SB标签：消息队列",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-251",
+    "name": "RabbitMQ",
+    "category": "SpringBoot",
+    "description": "SB标签：RabbitMQ",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-252",
+    "name": "Kafka",
+    "category": "SpringBoot",
+    "description": "SB标签：Kafka",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-253",
+    "name": "异步",
+    "category": "SpringBoot",
+    "description": "SB标签：异步",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-254",
+    "name": "定时任务",
+    "category": "SpringBoot",
+    "description": "SB标签：定时任务",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-255",
+    "name": "@Scheduled",
+    "category": "SpringBoot",
+    "description": "SB标签：@Scheduled",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-256",
+    "name": "@EnableScheduling",
+    "category": "SpringBoot",
+    "description": "SB标签：@EnableScheduling",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-257",
+    "name": "邮件发送",
+    "category": "SpringBoot",
+    "description": "SB标签：邮件发送",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-258",
+    "name": "验证码",
+    "category": "SpringBoot",
+    "description": "SB标签：验证码",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-259",
+    "name": "短信",
+    "category": "SpringBoot",
+    "description": "SB标签：短信",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-260",
+    "name": "WebSocket",
+    "category": "SpringBoot",
+    "description": "SB标签：WebSocket",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-261",
+    "name": "实时通知",
+    "category": "SpringBoot",
+    "description": "SB标签：实时通知",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-262",
+    "name": "聚合",
+    "category": "SpringBoot",
+    "description": "SB标签：聚合",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-263",
+    "name": "打包",
+    "category": "SpringBoot",
+    "description": "SB标签：打包",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-264",
+    "name": "上线",
+    "category": "SpringBoot",
+    "description": "SB标签：上线",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-265",
+    "name": "部署文档",
+    "category": "SpringBoot",
+    "description": "SB标签：部署文档",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-266",
+    "name": "项目文档",
+    "category": "SpringBoot",
+    "description": "SB标签：项目文档",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-267",
+    "name": "API文档",
+    "category": "SpringBoot",
+    "description": "SB标签：API文档",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-268",
+    "name": "数据库文档",
+    "category": "SpringBoot",
+    "description": "SB标签：数据库文档",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-269",
+    "name": "简历",
+    "category": "SpringBoot",
+    "description": "SB标签：简历",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-270",
+    "name": "面试",
+    "category": "SpringBoot",
+    "description": "SB标签：面试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-271",
+    "name": "SpringBoot面试",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringBoot面试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-272",
+    "name": "微服务",
+    "category": "SpringBoot",
+    "description": "SB标签：微服务",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-273",
+    "name": "SpringCloud",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringCloud",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-274",
+    "name": "网关Gateway",
+    "category": "SpringBoot",
+    "description": "SB标签：网关Gateway",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-275",
+    "name": "Nacos",
+    "category": "SpringBoot",
+    "description": "SB标签：Nacos",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-276",
+    "name": "Sentinel",
+    "category": "SpringBoot",
+    "description": "SB标签：Sentinel",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-277",
+    "name": "Feign",
+    "category": "SpringBoot",
+    "description": "SB标签：Feign",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-278",
+    "name": "负载均衡",
+    "category": "SpringBoot",
+    "description": "SB标签：负载均衡",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-279",
+    "name": "熔断降级",
+    "category": "SpringBoot",
+    "description": "SB标签：熔断降级",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-280",
+    "name": "配置中心",
+    "category": "SpringBoot",
+    "description": "SB标签：配置中心",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-281",
+    "name": "链路追踪",
+    "category": "SpringBoot",
+    "description": "SB标签：链路追踪",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-282",
+    "name": "服务网格",
+    "category": "SpringBoot",
+    "description": "SB标签：服务网格",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-283",
+    "name": "Docker",
+    "category": "SpringBoot",
+    "description": "SB标签：Docker",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-284",
+    "name": "Kubernetes",
+    "category": "SpringBoot",
+    "description": "SB标签：Kubernetes",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-285",
+    "name": "Jenkins",
+    "category": "SpringBoot",
+    "description": "SB标签：Jenkins",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-286",
+    "name": "CI/CD",
+    "category": "SpringBoot",
+    "description": "SB标签：CI/CD",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-287",
+    "name": "SpringBoot核心",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringBoot核心",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-288",
+    "name": "启动流程",
+    "category": "SpringBoot",
+    "description": "SB标签：启动流程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-289",
+    "name": "条件注解",
+    "category": "SpringBoot",
+    "description": "SB标签：条件注解",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-290",
+    "name": "@Conditional",
+    "category": "SpringBoot",
+    "description": "SB标签：@Conditional",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-291",
+    "name": "@Import",
+    "category": "SpringBoot",
+    "description": "SB标签：@Import",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-292",
+    "name": "@ImportResource",
+    "category": "SpringBoot",
+    "description": "SB标签：@ImportResource",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-293",
+    "name": "@PropertySource",
+    "category": "SpringBoot",
+    "description": "SB标签：@PropertySource",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-294",
+    "name": "@Test",
+    "category": "SpringBoot",
+    "description": "SB标签：@Test",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-295",
+    "name": "@SpringBootTest",
+    "category": "SpringBoot",
+    "description": "SB标签：@SpringBootTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-296",
+    "name": "@WebMvcTest",
+    "category": "SpringBoot",
+    "description": "SB标签：@WebMvcTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-297",
+    "name": "@DataJpaTest",
+    "category": "SpringBoot",
+    "description": "SB标签：@DataJpaTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-298",
+    "name": "@MybatisTest",
+    "category": "SpringBoot",
+    "description": "SB标签：@MybatisTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-299",
+    "name": "@RestClientTest",
+    "category": "SpringBoot",
+    "description": "SB标签：@RestClientTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-300",
+    "name": "@JsonTest",
+    "category": "SpringBoot",
+    "description": "SB标签：@JsonTest",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-301",
+    "name": "测试切片",
+    "category": "SpringBoot",
+    "description": "SB标签：测试切片",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-302",
+    "name": "嵌入式数据库",
+    "category": "SpringBoot",
+    "description": "SB标签：嵌入式数据库",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-303",
+    "name": "H2",
+    "category": "SpringBoot",
+    "description": "SB标签：H2",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-304",
+    "name": "@Sql",
+    "category": "SpringBoot",
+    "description": "SB标签：@Sql",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-305",
+    "name": "@Rollback",
+    "category": "SpringBoot",
+    "description": "SB标签：@Rollback",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-306",
+    "name": "@MockBean",
+    "category": "SpringBoot",
+    "description": "SB标签：@MockBean",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-307",
+    "name": "@SpyBean",
+    "category": "SpringBoot",
+    "description": "SB标签：@SpyBean",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-308",
+    "name": "@ContextConfiguration",
+    "category": "SpringBoot",
+    "description": "SB标签：@ContextConfiguration",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-309",
+    "name": "@ActiveProfiles",
+    "category": "SpringBoot",
+    "description": "SB标签：@ActiveProfiles",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-310",
+    "name": "@TestConfiguration",
+    "category": "SpringBoot",
+    "description": "SB标签：@TestConfiguration",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-311",
+    "name": "测试容器",
+    "category": "SpringBoot",
+    "description": "SB标签：测试容器",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-312",
+    "name": "@TestMethodOrder",
+    "category": "SpringBoot",
+    "description": "SB标签：@TestMethodOrder",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-313",
+    "name": "参数化测试",
+    "category": "SpringBoot",
+    "description": "SB标签：参数化测试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-314",
+    "name": "@CsvSource",
+    "category": "SpringBoot",
+    "description": "SB标签：@CsvSource",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-315",
+    "name": "@ValueSource",
+    "category": "SpringBoot",
+    "description": "SB标签：@ValueSource",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-316",
+    "name": "@EnumSource",
+    "category": "SpringBoot",
+    "description": "SB标签：@EnumSource",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-317",
+    "name": "@MethodSource",
+    "category": "SpringBoot",
+    "description": "SB标签：@MethodSource",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-318",
+    "name": "组合测试",
+    "category": "SpringBoot",
+    "description": "SB标签：组合测试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-319",
+    "name": "端到端测试",
+    "category": "SpringBoot",
+    "description": "SB标签：端到端测试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-320",
+    "name": "契约测试",
+    "category": "SpringBoot",
+    "description": "SB标签：契约测试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-321",
+    "name": "Pact框架",
+    "category": "SpringBoot",
+    "description": "SB标签：Pact框架",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-322",
+    "name": "API兼容性",
+    "category": "SpringBoot",
+    "description": "SB标签：API兼容性",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-323",
+    "name": "语义化版本",
+    "category": "SpringBoot",
+    "description": "SB标签：语义化版本",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-324",
+    "name": "后端安全",
+    "category": "SpringBoot",
+    "description": "SB标签：后端安全",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-325",
+    "name": "XSS防护",
+    "category": "SpringBoot",
+    "description": "SB标签：XSS防护",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-326",
+    "name": "SQL注入",
+    "category": "SpringBoot",
+    "description": "SB标签：SQL注入",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-327",
+    "name": "CSRF",
+    "category": "SpringBoot",
+    "description": "SB标签：CSRF",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-328",
+    "name": "HTTPS配置",
+    "category": "SpringBoot",
+    "description": "SB标签：HTTPS配置",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-329",
+    "name": "数据脱敏",
+    "category": "SpringBoot",
+    "description": "SB标签：数据脱敏",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-330",
+    "name": "接口限流",
+    "category": "SpringBoot",
+    "description": "SB标签：接口限流",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-331",
+    "name": "Hystrix",
+    "category": "SpringBoot",
+    "description": "SB标签：Hystrix",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-332",
+    "name": "Resilience4j",
+    "category": "SpringBoot",
+    "description": "SB标签：Resilience4j",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-333",
+    "name": "熔断",
+    "category": "SpringBoot",
+    "description": "SB标签：熔断",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-334",
+    "name": "降级",
+    "category": "SpringBoot",
+    "description": "SB标签：降级",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-335",
+    "name": "限流",
+    "category": "SpringBoot",
+    "description": "SB标签：限流",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-336",
+    "name": "重试",
+    "category": "SpringBoot",
+    "description": "SB标签：重试",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-337",
+    "name": "舱壁隔离",
+    "category": "SpringBoot",
+    "description": "SB标签：舱壁隔离",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-338",
+    "name": "GitLabCI",
+    "category": "SpringBoot",
+    "description": "SB标签：GitLabCI",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-339",
+    "name": "GitHubActions",
+    "category": "SpringBoot",
+    "description": "SB标签：GitHubActions",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-340",
+    "name": "云原生",
+    "category": "SpringBoot",
+    "description": "SB标签：云原生",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-341",
+    "name": "SpringNative",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringNative",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-342",
+    "name": "GraalVM",
+    "category": "SpringBoot",
+    "description": "SB标签：GraalVM",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-343",
+    "name": "AOT编译",
+    "category": "SpringBoot",
+    "description": "SB标签：AOT编译",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-344",
+    "name": "函数式端点",
+    "category": "SpringBoot",
+    "description": "SB标签：函数式端点",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-345",
+    "name": "WebFlux",
+    "category": "SpringBoot",
+    "description": "SB标签：WebFlux",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-346",
+    "name": "响应式编程",
+    "category": "SpringBoot",
+    "description": "SB标签：响应式编程",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-347",
+    "name": "SpringSecurityOAuth2",
+    "category": "SpringBoot",
+    "description": "SB标签：SpringSecurityOAuth2",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-348",
+    "name": "Keycloak",
+    "category": "SpringBoot",
+    "description": "SB标签：Keycloak",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-349",
+    "name": "OpenID",
+    "category": "SpringBoot",
+    "description": "SB标签：OpenID",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-350",
+    "name": "SAML",
+    "category": "SpringBoot",
+    "description": "SB标签：SAML",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-351",
+    "name": "CAS",
+    "category": "SpringBoot",
+    "description": "SB标签：CAS",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-352",
+    "name": "SSO单点登录",
+    "category": "SpringBoot",
+    "description": "SB标签：SSO单点登录",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-353",
+    "name": "双因素认证",
+    "category": "SpringBoot",
+    "description": "SB标签：双因素认证",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-354",
+    "name": "图形验证码",
+    "category": "SpringBoot",
+    "description": "SB标签：图形验证码",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-355",
+    "name": "短信验证码",
+    "category": "SpringBoot",
+    "description": "SB标签：短信验证码",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "sb-tag-356",
+    "name": "邮件验证码",
+    "category": "SpringBoot",
+    "description": "SB标签：邮件验证码",
+    "count": 0,
+    "createdAt": "2026-07-02T00:00:00.000Z"
+  }
+]
