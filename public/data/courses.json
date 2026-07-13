@@ -25,7 +25,14 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-001",
+      "sb-lesson-002",
+      "sb-lesson-003",
+      "sb-lesson-004"
+    ],
+    "summary": "SpringBoot概述、环境配置、快速启动、后端路线。"
   },
   {
     "id": "sb-course-02",
@@ -54,7 +61,15 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-005",
+      "sb-lesson-006",
+      "sb-lesson-007",
+      "sb-lesson-008",
+      "sb-lesson-009"
+    ],
+    "summary": "Maven结构、启动类、自动配置原理、内嵌Tomcat。"
   },
   {
     "id": "sb-course-03",
@@ -83,7 +98,15 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-010",
+      "sb-lesson-011",
+      "sb-lesson-012",
+      "sb-lesson-013",
+      "sb-lesson-014"
+    ],
+    "summary": "@RestController、映射注解、RESTful设计。"
   },
   {
     "id": "sb-course-04",
@@ -113,7 +136,16 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-015",
+      "sb-lesson-016",
+      "sb-lesson-017",
+      "sb-lesson-018",
+      "sb-lesson-019",
+      "sb-lesson-020"
+    ],
+    "summary": "@PathVariable/@RequestParam/@RequestBody、DTO/VO、统一响应。"
   },
   {
     "id": "sb-course-05",
@@ -142,7 +174,15 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-021",
+      "sb-lesson-022",
+      "sb-lesson-023",
+      "sb-lesson-024",
+      "sb-lesson-025"
+    ],
+    "summary": "分层架构、Service/ServiceImpl、Mapper/Repository、分层规范。"
   },
   {
     "id": "sb-course-06",
@@ -173,7 +213,17 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-026",
+      "sb-lesson-027",
+      "sb-lesson-028",
+      "sb-lesson-029",
+      "sb-lesson-030",
+      "sb-lesson-031",
+      "sb-lesson-032"
+    ],
+    "summary": "IoC容器、依赖注入、@Component系列注解、@Configuration、@Bean。"
   },
   {
     "id": "sb-course-07",
@@ -202,7 +252,15 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-033",
+      "sb-lesson-034",
+      "sb-lesson-035",
+      "sb-lesson-036",
+      "sb-lesson-037"
+    ],
+    "summary": "application.yml、Profile、多环境、Logback日志。"
   },
   {
     "id": "sb-course-08",
@@ -232,7 +290,16 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-038",
+      "sb-lesson-039",
+      "sb-lesson-040",
+      "sb-lesson-041",
+      "sb-lesson-042",
+      "sb-lesson-043"
+    ],
+    "summary": "数据源配置、MyBatis注解/XML、MyBatisPlus、JPA入门。"
   },
   {
     "id": "sb-course-09",
@@ -264,7 +331,18 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-044",
+      "sb-lesson-045",
+      "sb-lesson-046",
+      "sb-lesson-047",
+      "sb-lesson-048",
+      "sb-lesson-049",
+      "sb-lesson-050",
+      "sb-lesson-051"
+    ],
+    "summary": "增删改查、分页查询、条件查询、动态SQL、事务。"
   },
   {
     "id": "sb-course-10",
@@ -294,7 +372,16 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-052",
+      "sb-lesson-053",
+      "sb-lesson-054",
+      "sb-lesson-055",
+      "sb-lesson-056",
+      "sb-lesson-057"
+    ],
+    "summary": "@Valid分组校验、@ControllerAdvice异常处理、自定义异常。"
   },
   {
     "id": "sb-course-11",
@@ -325,7 +412,17 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-058",
+      "sb-lesson-059",
+      "sb-lesson-060",
+      "sb-lesson-061",
+      "sb-lesson-062",
+      "sb-lesson-063",
+      "sb-lesson-064"
+    ],
+    "summary": "登录流程、JWT生成/验证、拦截器鉴权、密码加密、CORS。"
   },
   {
     "id": "sb-course-12",
@@ -356,7 +453,17 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-065",
+      "sb-lesson-066",
+      "sb-lesson-067",
+      "sb-lesson-068",
+      "sb-lesson-069",
+      "sb-lesson-070",
+      "sb-lesson-071"
+    ],
+    "summary": "文件上传/下载、Swagger/OpenAPI、JUnit/MockMvc测试。"
   },
   {
     "id": "sb-course-13",
@@ -384,7 +491,14 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-072",
+      "sb-lesson-073",
+      "sb-lesson-074",
+      "sb-lesson-075"
+    ],
+    "summary": "用户管理、文章系统、订单管理、综合项目实战。"
   },
   {
     "id": "sb-course-14",
@@ -415,6 +529,16 @@
       "会用MyBatis",
       "具备后端项目能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "sb-lesson-076",
+      "sb-lesson-077",
+      "sb-lesson-078",
+      "sb-lesson-079",
+      "sb-lesson-080",
+      "sb-lesson-081",
+      "sb-lesson-082"
+    ],
+    "summary": "后端面试题、项目简历写法、Docker部署、Linux部署。"
   }
 ]

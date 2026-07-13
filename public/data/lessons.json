@@ -18,7 +18,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SpringBoot概述\n\nSpringBoot概述内容。",
+    "knowledgePoints": [
+      "sb-kp-001"
+    ]
   },
   {
     "id": "sb-lesson-002",
@@ -39,7 +43,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Spring与SpringBoot区别\n\nSpring与SpringBoot区别内容。",
+    "knowledgePoints": [
+      "sb-kp-002"
+    ]
   },
   {
     "id": "sb-lesson-003",
@@ -60,7 +68,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 后端开发路线\n\n后端开发路线内容。",
+    "knowledgePoints": [
+      "sb-kp-003"
+    ]
   },
   {
     "id": "sb-lesson-004",
@@ -81,7 +93,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 开发环境配置\n\n开发环境配置内容。",
+    "knowledgePoints": [
+      "sb-kp-004"
+    ]
   },
   {
     "id": "sb-lesson-005",
@@ -102,7 +118,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Maven项目结构\n\nMaven项目结构内容。",
+    "knowledgePoints": [
+      "sb-kp-005"
+    ]
   },
   {
     "id": "sb-lesson-006",
@@ -123,7 +143,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 启动类\n\n启动类内容。",
+    "knowledgePoints": [
+      "sb-kp-006"
+    ]
   },
   {
     "id": "sb-lesson-007",
@@ -145,7 +169,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自动配置原理\n\n自动配置原理内容。",
+    "knowledgePoints": [
+      "sb-kp-007",
+      "sb-kp-008"
+    ]
   },
   {
     "id": "sb-lesson-008",
@@ -166,7 +195,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内嵌容器\n\n内嵌容器内容。",
+    "knowledgePoints": [
+      "sb-kp-009"
+    ]
   },
   {
     "id": "sb-lesson-009",
@@ -187,7 +220,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DevTools热部署\n\nDevTools热部署内容。",
+    "knowledgePoints": [
+      "sb-kp-010"
+    ]
   },
   {
     "id": "sb-lesson-010",
@@ -208,7 +245,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Controller\n\n@Controller内容。",
+    "knowledgePoints": [
+      "sb-kp-011"
+    ]
   },
   {
     "id": "sb-lesson-011",
@@ -229,7 +270,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @RestController\n\n@RestController内容。",
+    "knowledgePoints": [
+      "sb-kp-012"
+    ]
   },
   {
     "id": "sb-lesson-012",
@@ -250,7 +295,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @RequestMapping\n\n@RequestMapping内容。",
+    "knowledgePoints": [
+      "sb-kp-013"
+    ]
   },
   {
     "id": "sb-lesson-013",
@@ -271,7 +320,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @GetMapping/@PostMapping等\n\n@GetMapping/@PostMapping等内容。",
+    "knowledgePoints": [
+      "sb-kp-014"
+    ]
   },
   {
     "id": "sb-lesson-014",
@@ -293,7 +346,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# RESTful设计\n\nRESTful设计内容。",
+    "knowledgePoints": [
+      "sb-kp-015",
+      "sb-kp-016"
+    ]
   },
   {
     "id": "sb-lesson-015",
@@ -314,7 +372,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @PathVariable\n\n@PathVariable内容。",
+    "knowledgePoints": [
+      "sb-kp-017"
+    ]
   },
   {
     "id": "sb-lesson-016",
@@ -335,7 +397,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @RequestParam\n\n@RequestParam内容。",
+    "knowledgePoints": [
+      "sb-kp-018"
+    ]
   },
   {
     "id": "sb-lesson-017",
@@ -356,7 +422,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @RequestBody\n\n@RequestBody内容。",
+    "knowledgePoints": [
+      "sb-kp-019"
+    ]
   },
   {
     "id": "sb-lesson-018",
@@ -378,7 +448,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DTO与VO\n\nDTO与VO内容。",
+    "knowledgePoints": [
+      "sb-kp-020",
+      "sb-kp-021"
+    ]
   },
   {
     "id": "sb-lesson-019",
@@ -400,7 +475,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 统一响应Result\n\n统一响应Result内容。",
+    "knowledgePoints": [
+      "sb-kp-022",
+      "sb-kp-023"
+    ]
   },
   {
     "id": "sb-lesson-020",
@@ -421,7 +501,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Jackson JSON\n\nJackson JSON内容。",
+    "knowledgePoints": [
+      "sb-kp-024"
+    ]
   },
   {
     "id": "sb-lesson-021",
@@ -442,7 +526,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分层架构\n\n分层架构内容。",
+    "knowledgePoints": [
+      "sb-kp-025"
+    ]
   },
   {
     "id": "sb-lesson-022",
@@ -463,7 +551,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Service\n\n@Service内容。",
+    "knowledgePoints": [
+      "sb-kp-026"
+    ]
   },
   {
     "id": "sb-lesson-023",
@@ -484,7 +576,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Repository/@Mapper\n\n@Repository/@Mapper内容。",
+    "knowledgePoints": [
+      "sb-kp-027"
+    ]
   },
   {
     "id": "sb-lesson-024",
@@ -505,7 +601,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DAO层设计\n\nDAO层设计内容。",
+    "knowledgePoints": [
+      "sb-kp-028"
+    ]
   },
   {
     "id": "sb-lesson-025",
@@ -526,7 +626,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分层规范\n\n分层规范内容。",
+    "knowledgePoints": [
+      "sb-kp-029"
+    ]
   },
   {
     "id": "sb-lesson-026",
@@ -548,7 +652,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# IoC容器\n\nIoC容器内容。",
+    "knowledgePoints": [
+      "sb-kp-030",
+      "sb-kp-031"
+    ]
   },
   {
     "id": "sb-lesson-027",
@@ -569,7 +678,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DI依赖注入\n\nDI依赖注入内容。",
+    "knowledgePoints": [
+      "sb-kp-032"
+    ]
   },
   {
     "id": "sb-lesson-028",
@@ -590,7 +703,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Component系列\n\n@Component系列内容。",
+    "knowledgePoints": [
+      "sb-kp-033"
+    ]
   },
   {
     "id": "sb-lesson-029",
@@ -611,7 +728,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Autowired/@Resource\n\n@Autowired/@Resource内容。",
+    "knowledgePoints": [
+      "sb-kp-034"
+    ]
   },
   {
     "id": "sb-lesson-030",
@@ -632,7 +753,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Configuration/@Bean\n\n@Configuration/@Bean内容。",
+    "knowledgePoints": [
+      "sb-kp-035"
+    ]
   },
   {
     "id": "sb-lesson-031",
@@ -653,7 +778,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Primary/@Qualifier\n\n@Primary/@Qualifier内容。",
+    "knowledgePoints": [
+      "sb-kp-036"
+    ]
   },
   {
     "id": "sb-lesson-032",
@@ -674,7 +803,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 生命周期\n\n生命周期内容。",
+    "knowledgePoints": [
+      "sb-kp-037"
+    ]
   },
   {
     "id": "sb-lesson-033",
@@ -695,7 +828,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# application.yml\n\napplication.yml内容。",
+    "knowledgePoints": [
+      "sb-kp-038"
+    ]
   },
   {
     "id": "sb-lesson-034",
@@ -716,7 +853,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多环境配置\n\n多环境配置内容。",
+    "knowledgePoints": [
+      "sb-kp-039"
+    ]
   },
   {
     "id": "sb-lesson-035",
@@ -737,7 +878,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Value/@ConfigurationProperties\n\n@Value/@ConfigurationProperties内容。",
+    "knowledgePoints": [
+      "sb-kp-040"
+    ]
   },
   {
     "id": "sb-lesson-036",
@@ -758,7 +903,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Logback配置\n\nLogback配置内容。",
+    "knowledgePoints": [
+      "sb-kp-041"
+    ]
   },
   {
     "id": "sb-lesson-037",
@@ -779,7 +928,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 日志级别\n\n日志级别内容。",
+    "knowledgePoints": [
+      "sb-kp-042"
+    ]
   },
   {
     "id": "sb-lesson-038",
@@ -800,7 +953,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据源配置\n\n数据源配置内容。",
+    "knowledgePoints": [
+      "sb-kp-043"
+    ]
   },
   {
     "id": "sb-lesson-039",
@@ -822,7 +979,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MyBatis入门\n\nMyBatis入门内容。",
+    "knowledgePoints": [
+      "sb-kp-044",
+      "sb-kp-045"
+    ]
   },
   {
     "id": "sb-lesson-040",
@@ -843,7 +1005,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Select/@Insert/@Update/@Delete\n\n@Select/@Insert/@Update/@Delete内容。",
+    "knowledgePoints": [
+      "sb-kp-046"
+    ]
   },
   {
     "id": "sb-lesson-041",
@@ -864,7 +1030,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# XML映射\n\nXML映射内容。",
+    "knowledgePoints": [
+      "sb-kp-047"
+    ]
   },
   {
     "id": "sb-lesson-042",
@@ -885,7 +1055,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MyBatisPlus\n\nMyBatisPlus内容。",
+    "knowledgePoints": [
+      "sb-kp-048"
+    ]
   },
   {
     "id": "sb-lesson-043",
@@ -906,7 +1080,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JPA入门\n\nJPA入门内容。",
+    "knowledgePoints": [
+      "sb-kp-049"
+    ]
   },
   {
     "id": "sb-lesson-044",
@@ -927,7 +1105,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 新增\n\n新增内容。",
+    "knowledgePoints": [
+      "sb-kp-050"
+    ]
   },
   {
     "id": "sb-lesson-045",
@@ -948,7 +1130,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 删除\n\n删除内容。",
+    "knowledgePoints": [
+      "sb-kp-051"
+    ]
   },
   {
     "id": "sb-lesson-046",
@@ -969,7 +1155,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 更新\n\n更新内容。",
+    "knowledgePoints": [
+      "sb-kp-052"
+    ]
   },
   {
     "id": "sb-lesson-047",
@@ -990,7 +1180,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 查询\n\n查询内容。",
+    "knowledgePoints": [
+      "sb-kp-053"
+    ]
   },
   {
     "id": "sb-lesson-048",
@@ -1012,7 +1206,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分页PageHelper\n\n分页PageHelper内容。",
+    "knowledgePoints": [
+      "sb-kp-054",
+      "sb-kp-055"
+    ]
   },
   {
     "id": "sb-lesson-049",
@@ -1033,7 +1232,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 动态SQL\n\n动态SQL内容。",
+    "knowledgePoints": [
+      "sb-kp-056"
+    ]
   },
   {
     "id": "sb-lesson-050",
@@ -1055,7 +1258,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事务@Transactional\n\n事务@Transactional内容。",
+    "knowledgePoints": [
+      "sb-kp-057",
+      "sb-kp-058"
+    ]
   },
   {
     "id": "sb-lesson-051",
@@ -1076,7 +1284,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事务传播\n\n事务传播内容。",
+    "knowledgePoints": [
+      "sb-kp-059"
+    ]
   },
   {
     "id": "sb-lesson-052",
@@ -1097,7 +1309,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Valid/@Validated\n\n@Valid/@Validated内容。",
+    "knowledgePoints": [
+      "sb-kp-060"
+    ]
   },
   {
     "id": "sb-lesson-053",
@@ -1118,7 +1334,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常用校验注解\n\n常用校验注解内容。",
+    "knowledgePoints": [
+      "sb-kp-061"
+    ]
   },
   {
     "id": "sb-lesson-054",
@@ -1139,7 +1359,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分组校验\n\n分组校验内容。",
+    "knowledgePoints": [
+      "sb-kp-062"
+    ]
   },
   {
     "id": "sb-lesson-055",
@@ -1161,7 +1385,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @ControllerAdvice\n\n@ControllerAdvice内容。",
+    "knowledgePoints": [
+      "sb-kp-063",
+      "sb-kp-064"
+    ]
   },
   {
     "id": "sb-lesson-056",
@@ -1182,7 +1411,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自定义异常\n\n自定义异常内容。",
+    "knowledgePoints": [
+      "sb-kp-065"
+    ]
   },
   {
     "id": "sb-lesson-057",
@@ -1203,7 +1436,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 统一异常响应\n\n统一异常响应内容。",
+    "knowledgePoints": [
+      "sb-kp-066"
+    ]
   },
   {
     "id": "sb-lesson-058",
@@ -1224,7 +1461,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 登录流程\n\n登录流程内容。",
+    "knowledgePoints": [
+      "sb-kp-067"
+    ]
   },
   {
     "id": "sb-lesson-059",
@@ -1245,7 +1486,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Session方式\n\nSession方式内容。",
+    "knowledgePoints": [
+      "sb-kp-068"
+    ]
   },
   {
     "id": "sb-lesson-060",
@@ -1267,7 +1512,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JWT入门\n\nJWT入门内容。",
+    "knowledgePoints": [
+      "sb-kp-069",
+      "sb-kp-070"
+    ]
   },
   {
     "id": "sb-lesson-061",
@@ -1288,7 +1538,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JWT生成与解析\n\nJWT生成与解析内容。",
+    "knowledgePoints": [
+      "sb-kp-071"
+    ]
   },
   {
     "id": "sb-lesson-062",
@@ -1310,7 +1564,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 拦截器HandlerInterceptor\n\n拦截器HandlerInterceptor内容。",
+    "knowledgePoints": [
+      "sb-kp-072",
+      "sb-kp-073"
+    ]
   },
   {
     "id": "sb-lesson-063",
@@ -1331,7 +1590,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 密码加密BCrypt\n\n密码加密BCrypt内容。",
+    "knowledgePoints": [
+      "sb-kp-074"
+    ]
   },
   {
     "id": "sb-lesson-064",
@@ -1352,7 +1615,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CORS跨域\n\nCORS跨域内容。",
+    "knowledgePoints": [
+      "sb-kp-075"
+    ]
   },
   {
     "id": "sb-lesson-065",
@@ -1373,7 +1640,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件上传\n\n文件上传内容。",
+    "knowledgePoints": [
+      "sb-kp-076"
+    ]
   },
   {
     "id": "sb-lesson-066",
@@ -1394,7 +1665,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件下载\n\n文件下载内容。",
+    "knowledgePoints": [
+      "sb-kp-077"
+    ]
   },
   {
     "id": "sb-lesson-067",
@@ -1416,7 +1691,12 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Swagger/OpenAPI\n\nSwagger/OpenAPI内容。",
+    "knowledgePoints": [
+      "sb-kp-078",
+      "sb-kp-079"
+    ]
   },
   {
     "id": "sb-lesson-068",
@@ -1437,7 +1717,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Api/@ApiOperation\n\n@Api/@ApiOperation内容。",
+    "knowledgePoints": [
+      "sb-kp-080"
+    ]
   },
   {
     "id": "sb-lesson-069",
@@ -1458,7 +1742,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JUnit测试\n\nJUnit测试内容。",
+    "knowledgePoints": [
+      "sb-kp-081"
+    ]
   },
   {
     "id": "sb-lesson-070",
@@ -1479,7 +1767,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MockMvc\n\nMockMvc内容。",
+    "knowledgePoints": [
+      "sb-kp-082"
+    ]
   },
   {
     "id": "sb-lesson-071",
@@ -1500,7 +1792,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Postman使用\n\nPostman使用内容。",
+    "knowledgePoints": [
+      "sb-kp-083"
+    ]
   },
   {
     "id": "sb-lesson-072",
@@ -1521,7 +1817,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用户管理系统\n\n用户管理系统内容。",
+    "knowledgePoints": [
+      "sb-kp-084"
+    ]
   },
   {
     "id": "sb-lesson-073",
@@ -1542,7 +1842,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文章系统\n\n文章系统内容。",
+    "knowledgePoints": [
+      "sb-kp-085"
+    ]
   },
   {
     "id": "sb-lesson-074",
@@ -1563,7 +1867,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 订单管理系统\n\n订单管理系统内容。",
+    "knowledgePoints": [
+      "sb-kp-086"
+    ]
   },
   {
     "id": "sb-lesson-075",
@@ -1584,7 +1892,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 项目完整流程\n\n项目完整流程内容。",
+    "knowledgePoints": [
+      "sb-kp-087"
+    ]
   },
   {
     "id": "sb-lesson-076",
@@ -1605,7 +1917,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 后端面试题\n\n后端面试题内容。",
+    "knowledgePoints": [
+      "sb-kp-088"
+    ]
   },
   {
     "id": "sb-lesson-077",
@@ -1626,7 +1942,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 项目简历写法\n\n项目简历写法内容。",
+    "knowledgePoints": [
+      "sb-kp-089"
+    ]
   },
   {
     "id": "sb-lesson-078",
@@ -1647,7 +1967,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Docker部署\n\nDocker部署内容。",
+    "knowledgePoints": [
+      "sb-kp-090"
+    ]
   },
   {
     "id": "sb-lesson-079",
@@ -1668,7 +1992,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux部署\n\nLinux部署内容。",
+    "knowledgePoints": [
+      "sb-kp-091"
+    ]
   },
   {
     "id": "sb-lesson-080",
@@ -1689,7 +2017,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Nginx反向代理\n\nNginx反向代理内容。",
+    "knowledgePoints": [
+      "sb-kp-092"
+    ]
   },
   {
     "id": "sb-lesson-081",
@@ -1710,7 +2042,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试内容。",
+    "knowledgePoints": [
+      "sb-kp-093"
+    ]
   },
   {
     "id": "sb-lesson-082",
@@ -1731,7 +2067,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺内容。",
+    "knowledgePoints": [
+      "sb-kp-094"
+    ]
   },
   {
     "id": "sb-lesson-083",
@@ -1752,7 +2092,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SpringBoot入门补充\n\nSpringBoot入门补充内容。",
+    "knowledgePoints": [
+      "sb-kp-0083"
+    ]
   },
   {
     "id": "sb-lesson-084",
@@ -1773,7 +2117,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Tomcat原理\n\nTomcat原理内容。",
+    "knowledgePoints": [
+      "sb-kp-0084"
+    ]
   },
   {
     "id": "sb-lesson-085",
@@ -1794,7 +2142,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Maven坐标命名\n\nMaven坐标命名内容。",
+    "knowledgePoints": [
+      "sb-kp-0085"
+    ]
   },
   {
     "id": "sb-lesson-086",
@@ -1815,7 +2167,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 依赖传递\n\n依赖传递内容。",
+    "knowledgePoints": [
+      "sb-kp-0086"
+    ]
   },
   {
     "id": "sb-lesson-087",
@@ -1836,7 +2192,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @CrossOrigin\n\n@CrossOrigin内容。",
+    "knowledgePoints": [
+      "sb-kp-0087"
+    ]
   },
   {
     "id": "sb-lesson-088",
@@ -1857,7 +2217,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 请求方法语义\n\n请求方法语义内容。",
+    "knowledgePoints": [
+      "sb-kp-0088"
+    ]
   },
   {
     "id": "sb-lesson-089",
@@ -1878,7 +2242,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Jackson配置\n\nJackson配置内容。",
+    "knowledgePoints": [
+      "sb-kp-0089"
+    ]
   },
   {
     "id": "sb-lesson-090",
@@ -1899,7 +2267,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 日期格式化\n\n日期格式化内容。",
+    "knowledgePoints": [
+      "sb-kp-0090"
+    ]
   },
   {
     "id": "sb-lesson-091",
@@ -1920,7 +2292,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ControllerService交互\n\nControllerService交互内容。",
+    "knowledgePoints": [
+      "sb-kp-0091"
+    ]
   },
   {
     "id": "sb-lesson-092",
@@ -1941,7 +2317,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 接口设计规范\n\n接口设计规范内容。",
+    "knowledgePoints": [
+      "sb-kp-0092"
+    ]
   },
   {
     "id": "sb-lesson-093",
@@ -1962,7 +2342,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Scope\n\n@Scope内容。",
+    "knowledgePoints": [
+      "sb-kp-0093"
+    ]
   },
   {
     "id": "sb-lesson-094",
@@ -1983,7 +2367,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @Lazy\n\n@Lazy内容。",
+    "knowledgePoints": [
+      "sb-kp-0094"
+    ]
   },
   {
     "id": "sb-lesson-095",
@@ -2004,7 +2392,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 配置优先级\n\n配置优先级内容。",
+    "knowledgePoints": [
+      "sb-kp-0095"
+    ]
   },
   {
     "id": "sb-lesson-096",
@@ -2025,7 +2417,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @PropertySource\n\n@PropertySource内容。",
+    "knowledgePoints": [
+      "sb-kp-0096"
+    ]
   },
   {
     "id": "sb-lesson-097",
@@ -2046,7 +2442,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连接池配置\n\n连接池配置内容。",
+    "knowledgePoints": [
+      "sb-kp-0097"
+    ]
   },
   {
     "id": "sb-lesson-098",
@@ -2067,7 +2467,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多数据源\n\n多数据源内容。",
+    "knowledgePoints": [
+      "sb-kp-0098"
+    ]
   },
   {
     "id": "sb-lesson-099",
@@ -2088,7 +2492,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @SelectKey\n\n@SelectKey内容。",
+    "knowledgePoints": [
+      "sb-kp-0099"
+    ]
   },
   {
     "id": "sb-lesson-100",
@@ -2109,7 +2517,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @ResultMap\n\n@ResultMap内容。",
+    "knowledgePoints": [
+      "sb-kp-0100"
+    ]
   },
   {
     "id": "sb-lesson-101",
@@ -2130,7 +2542,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自定义校验注解\n\n自定义校验注解内容。",
+    "knowledgePoints": [
+      "sb-kp-0101"
+    ]
   },
   {
     "id": "sb-lesson-102",
@@ -2151,7 +2567,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @RefreshToken\n\n@RefreshToken内容。",
+    "knowledgePoints": [
+      "sb-kp-0102"
+    ]
   },
   {
     "id": "sb-lesson-103",
@@ -2172,7 +2592,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JWT续期\n\nJWT续期内容。",
+    "knowledgePoints": [
+      "sb-kp-0103"
+    ]
   },
   {
     "id": "sb-lesson-104",
@@ -2193,7 +2617,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @ResponseEntity\n\n@ResponseEntity内容。",
+    "knowledgePoints": [
+      "sb-kp-0104"
+    ]
   },
   {
     "id": "sb-lesson-105",
@@ -2214,7 +2642,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 请求日志\n\n请求日志内容。",
+    "knowledgePoints": [
+      "sb-kp-0105"
+    ]
   },
   {
     "id": "sb-lesson-106",
@@ -2235,7 +2667,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 权限管理实战\n\n权限管理实战内容。",
+    "knowledgePoints": [
+      "sb-kp-0106"
+    ]
   },
   {
     "id": "sb-lesson-107",
@@ -2256,7 +2692,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 角色管理实战\n\n角色管理实战内容。",
+    "knowledgePoints": [
+      "sb-kp-0107"
+    ]
   },
   {
     "id": "sb-lesson-108",
@@ -2277,7 +2717,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试题集\n\n面试题集内容。",
+    "knowledgePoints": [
+      "sb-kp-0108"
+    ]
   },
   {
     "id": "sb-lesson-109",
@@ -2298,7 +2742,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 项目经验写法\n\n项目经验写法内容。",
+    "knowledgePoints": [
+      "sb-kp-0109"
+    ]
   },
   {
     "id": "sb-lesson-110",
@@ -2319,7 +2767,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课1\n\n补充课1内容。",
+    "knowledgePoints": [
+      "sb-kp-0110"
+    ]
   },
   {
     "id": "sb-lesson-111",
@@ -2340,7 +2792,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课2\n\n补充课2内容。",
+    "knowledgePoints": [
+      "sb-kp-0111"
+    ]
   },
   {
     "id": "sb-lesson-112",
@@ -2361,7 +2817,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课3\n\n补充课3内容。",
+    "knowledgePoints": [
+      "sb-kp-0112"
+    ]
   },
   {
     "id": "sb-lesson-113",
@@ -2382,7 +2842,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课4\n\n补充课4内容。",
+    "knowledgePoints": [
+      "sb-kp-0113"
+    ]
   },
   {
     "id": "sb-lesson-114",
@@ -2403,7 +2867,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课5\n\n补充课5内容。",
+    "knowledgePoints": [
+      "sb-kp-0114"
+    ]
   },
   {
     "id": "sb-lesson-115",
@@ -2424,7 +2892,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课6\n\n补充课6内容。",
+    "knowledgePoints": [
+      "sb-kp-0115"
+    ]
   },
   {
     "id": "sb-lesson-116",
@@ -2445,7 +2917,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课7\n\n补充课7内容。",
+    "knowledgePoints": [
+      "sb-kp-0116"
+    ]
   },
   {
     "id": "sb-lesson-117",
@@ -2466,7 +2942,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课8\n\n补充课8内容。",
+    "knowledgePoints": [
+      "sb-kp-0117"
+    ]
   },
   {
     "id": "sb-lesson-118",
@@ -2487,7 +2967,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课9\n\n补充课9内容。",
+    "knowledgePoints": [
+      "sb-kp-0118"
+    ]
   },
   {
     "id": "sb-lesson-119",
@@ -2508,7 +2992,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课10\n\n补充课10内容。",
+    "knowledgePoints": [
+      "sb-kp-0119"
+    ]
   },
   {
     "id": "sb-lesson-120",
@@ -2529,7 +3017,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课11\n\n补充课11内容。",
+    "knowledgePoints": [
+      "sb-kp-0120"
+    ]
   },
   {
     "id": "sb-lesson-121",
@@ -2550,7 +3042,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课12\n\n补充课12内容。",
+    "knowledgePoints": [
+      "sb-kp-0121"
+    ]
   },
   {
     "id": "sb-lesson-122",
@@ -2571,7 +3067,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课13\n\n补充课13内容。",
+    "knowledgePoints": [
+      "sb-kp-0122"
+    ]
   },
   {
     "id": "sb-lesson-123",
@@ -2592,7 +3092,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课14\n\n补充课14内容。",
+    "knowledgePoints": [
+      "sb-kp-0123"
+    ]
   },
   {
     "id": "sb-lesson-124",
@@ -2613,7 +3117,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课15\n\n补充课15内容。",
+    "knowledgePoints": [
+      "sb-kp-0124"
+    ]
   },
   {
     "id": "sb-lesson-125",
@@ -2634,7 +3142,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课16\n\n补充课16内容。",
+    "knowledgePoints": [
+      "sb-kp-0125"
+    ]
   },
   {
     "id": "sb-lesson-126",
@@ -2655,7 +3167,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课17\n\n补充课17内容。",
+    "knowledgePoints": [
+      "sb-kp-0126"
+    ]
   },
   {
     "id": "sb-lesson-127",
@@ -2676,7 +3192,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课18\n\n补充课18内容。",
+    "knowledgePoints": [
+      "sb-kp-0127"
+    ]
   },
   {
     "id": "sb-lesson-128",
@@ -2697,7 +3217,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课19\n\n补充课19内容。",
+    "knowledgePoints": [
+      "sb-kp-0128"
+    ]
   },
   {
     "id": "sb-lesson-129",
@@ -2718,7 +3242,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课20\n\n补充课20内容。",
+    "knowledgePoints": [
+      "sb-kp-0129"
+    ]
   },
   {
     "id": "sb-lesson-130",
@@ -2739,7 +3267,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课21\n\n补充课21内容。",
+    "knowledgePoints": [
+      "sb-kp-0130"
+    ]
   },
   {
     "id": "sb-lesson-131",
@@ -2760,7 +3292,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课22\n\n补充课22内容。",
+    "knowledgePoints": [
+      "sb-kp-0131"
+    ]
   },
   {
     "id": "sb-lesson-132",
@@ -2781,7 +3317,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课23\n\n补充课23内容。",
+    "knowledgePoints": [
+      "sb-kp-0132"
+    ]
   },
   {
     "id": "sb-lesson-133",
@@ -2802,7 +3342,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课24\n\n补充课24内容。",
+    "knowledgePoints": [
+      "sb-kp-0133"
+    ]
   },
   {
     "id": "sb-lesson-134",
@@ -2823,7 +3367,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课25\n\n补充课25内容。",
+    "knowledgePoints": [
+      "sb-kp-0134"
+    ]
   },
   {
     "id": "sb-lesson-135",
@@ -2844,7 +3392,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课26\n\n补充课26内容。",
+    "knowledgePoints": [
+      "sb-kp-0135"
+    ]
   },
   {
     "id": "sb-lesson-136",
@@ -2865,7 +3417,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课27\n\n补充课27内容。",
+    "knowledgePoints": [
+      "sb-kp-0136"
+    ]
   },
   {
     "id": "sb-lesson-137",
@@ -2886,7 +3442,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课28\n\n补充课28内容。",
+    "knowledgePoints": [
+      "sb-kp-0137"
+    ]
   },
   {
     "id": "sb-lesson-138",
@@ -2907,7 +3467,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课29\n\n补充课29内容。",
+    "knowledgePoints": [
+      "sb-kp-0138"
+    ]
   },
   {
     "id": "sb-lesson-139",
@@ -2928,7 +3492,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课30\n\n补充课30内容。",
+    "knowledgePoints": [
+      "sb-kp-0139"
+    ]
   },
   {
     "id": "sb-lesson-140",
@@ -2949,7 +3517,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课31\n\n补充课31内容。",
+    "knowledgePoints": [
+      "sb-kp-0140"
+    ]
   },
   {
     "id": "sb-lesson-141",
@@ -2970,7 +3542,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课32\n\n补充课32内容。",
+    "knowledgePoints": [
+      "sb-kp-0141"
+    ]
   },
   {
     "id": "sb-lesson-142",
@@ -2991,7 +3567,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课33\n\n补充课33内容。",
+    "knowledgePoints": [
+      "sb-kp-0142"
+    ]
   },
   {
     "id": "sb-lesson-143",
@@ -3012,7 +3592,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课34\n\n补充课34内容。",
+    "knowledgePoints": [
+      "sb-kp-0143"
+    ]
   },
   {
     "id": "sb-lesson-144",
@@ -3033,7 +3617,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课35\n\n补充课35内容。",
+    "knowledgePoints": [
+      "sb-kp-0144"
+    ]
   },
   {
     "id": "sb-lesson-145",
@@ -3054,7 +3642,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课36\n\n补充课36内容。",
+    "knowledgePoints": [
+      "sb-kp-0145"
+    ]
   },
   {
     "id": "sb-lesson-146",
@@ -3075,7 +3667,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课37\n\n补充课37内容。",
+    "knowledgePoints": [
+      "sb-kp-0146"
+    ]
   },
   {
     "id": "sb-lesson-147",
@@ -3096,7 +3692,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课38\n\n补充课38内容。",
+    "knowledgePoints": [
+      "sb-kp-0147"
+    ]
   },
   {
     "id": "sb-lesson-148",
@@ -3117,7 +3717,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课39\n\n补充课39内容。",
+    "knowledgePoints": [
+      "sb-kp-0148"
+    ]
   },
   {
     "id": "sb-lesson-149",
@@ -3138,7 +3742,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课40\n\n补充课40内容。",
+    "knowledgePoints": [
+      "sb-kp-0149"
+    ]
   },
   {
     "id": "sb-lesson-150",
@@ -3159,7 +3767,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课41\n\n补充课41内容。",
+    "knowledgePoints": [
+      "sb-kp-0150"
+    ]
   },
   {
     "id": "sb-lesson-151",
@@ -3180,7 +3792,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课42\n\n补充课42内容。",
+    "knowledgePoints": [
+      "sb-kp-0151"
+    ]
   },
   {
     "id": "sb-lesson-152",
@@ -3201,7 +3817,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课43\n\n补充课43内容。",
+    "knowledgePoints": [
+      "sb-kp-0152"
+    ]
   },
   {
     "id": "sb-lesson-153",
@@ -3222,7 +3842,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课44\n\n补充课44内容。",
+    "knowledgePoints": [
+      "sb-kp-0153"
+    ]
   },
   {
     "id": "sb-lesson-154",
@@ -3243,7 +3867,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课45\n\n补充课45内容。",
+    "knowledgePoints": [
+      "sb-kp-0154"
+    ]
   },
   {
     "id": "sb-lesson-155",
@@ -3264,7 +3892,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课46\n\n补充课46内容。",
+    "knowledgePoints": [
+      "sb-kp-0155"
+    ]
   },
   {
     "id": "sb-lesson-156",
@@ -3285,7 +3917,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课47\n\n补充课47内容。",
+    "knowledgePoints": [
+      "sb-kp-0156"
+    ]
   },
   {
     "id": "sb-lesson-157",
@@ -3306,7 +3942,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课48\n\n补充课48内容。",
+    "knowledgePoints": [
+      "sb-kp-0157"
+    ]
   },
   {
     "id": "sb-lesson-158",
@@ -3327,7 +3967,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课49\n\n补充课49内容。",
+    "knowledgePoints": [
+      "sb-kp-0158"
+    ]
   },
   {
     "id": "sb-lesson-159",
@@ -3348,7 +3992,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课50\n\n补充课50内容。",
+    "knowledgePoints": [
+      "sb-kp-0159"
+    ]
   },
   {
     "id": "sb-lesson-160",
@@ -3369,7 +4017,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课51\n\n补充课51内容。",
+    "knowledgePoints": [
+      "sb-kp-0160"
+    ]
   },
   {
     "id": "sb-lesson-161",
@@ -3390,7 +4042,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课52\n\n补充课52内容。",
+    "knowledgePoints": [
+      "sb-kp-0161"
+    ]
   },
   {
     "id": "sb-lesson-162",
@@ -3411,7 +4067,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课53\n\n补充课53内容。",
+    "knowledgePoints": [
+      "sb-kp-0162"
+    ]
   },
   {
     "id": "sb-lesson-163",
@@ -3432,7 +4092,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课54\n\n补充课54内容。",
+    "knowledgePoints": [
+      "sb-kp-0163"
+    ]
   },
   {
     "id": "sb-lesson-164",
@@ -3453,7 +4117,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课55\n\n补充课55内容。",
+    "knowledgePoints": [
+      "sb-kp-0164"
+    ]
   },
   {
     "id": "sb-lesson-165",
@@ -3474,7 +4142,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课56\n\n补充课56内容。",
+    "knowledgePoints": [
+      "sb-kp-0165"
+    ]
   },
   {
     "id": "sb-lesson-166",
@@ -3495,7 +4167,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课57\n\n补充课57内容。",
+    "knowledgePoints": [
+      "sb-kp-0166"
+    ]
   },
   {
     "id": "sb-lesson-167",
@@ -3516,7 +4192,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课58\n\n补充课58内容。",
+    "knowledgePoints": [
+      "sb-kp-0167"
+    ]
   },
   {
     "id": "sb-lesson-168",
@@ -3537,7 +4217,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课59\n\n补充课59内容。",
+    "knowledgePoints": [
+      "sb-kp-0168"
+    ]
   },
   {
     "id": "sb-lesson-169",
@@ -3558,7 +4242,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课60\n\n补充课60内容。",
+    "knowledgePoints": [
+      "sb-kp-0169"
+    ]
   },
   {
     "id": "sb-lesson-170",
@@ -3579,7 +4267,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课61\n\n补充课61内容。",
+    "knowledgePoints": [
+      "sb-kp-0170"
+    ]
   },
   {
     "id": "sb-lesson-171",
@@ -3600,7 +4292,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课62\n\n补充课62内容。",
+    "knowledgePoints": [
+      "sb-kp-0171"
+    ]
   },
   {
     "id": "sb-lesson-172",
@@ -3621,7 +4317,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课63\n\n补充课63内容。",
+    "knowledgePoints": [
+      "sb-kp-0172"
+    ]
   },
   {
     "id": "sb-lesson-173",
@@ -3642,7 +4342,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课64\n\n补充课64内容。",
+    "knowledgePoints": [
+      "sb-kp-0173"
+    ]
   },
   {
     "id": "sb-lesson-174",
@@ -3663,7 +4367,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课65\n\n补充课65内容。",
+    "knowledgePoints": [
+      "sb-kp-0174"
+    ]
   },
   {
     "id": "sb-lesson-175",
@@ -3684,7 +4392,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课66\n\n补充课66内容。",
+    "knowledgePoints": [
+      "sb-kp-0175"
+    ]
   },
   {
     "id": "sb-lesson-176",
@@ -3705,7 +4417,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课67\n\n补充课67内容。",
+    "knowledgePoints": [
+      "sb-kp-0176"
+    ]
   },
   {
     "id": "sb-lesson-177",
@@ -3726,7 +4442,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课68\n\n补充课68内容。",
+    "knowledgePoints": [
+      "sb-kp-0177"
+    ]
   },
   {
     "id": "sb-lesson-178",
@@ -3747,7 +4467,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课69\n\n补充课69内容。",
+    "knowledgePoints": [
+      "sb-kp-0178"
+    ]
   },
   {
     "id": "sb-lesson-179",
@@ -3768,7 +4492,11 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课70\n\n补充课70内容。",
+    "knowledgePoints": [
+      "sb-kp-0179"
+    ]
   },
   {
     "id": "sb-lesson-180",
@@ -3787,6 +4515,8 @@
       "SpringBoot"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补课",
+    "knowledgePoints": []
   }
 ]

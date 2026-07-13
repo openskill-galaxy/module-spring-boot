@@ -5,7 +5,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringBoot",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springboot"
   },
   {
     "id": "sb-tag-002",
@@ -13,7 +14,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Spring",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "spring"
   },
   {
     "id": "sb-tag-003",
@@ -21,7 +23,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Framework",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "framework"
   },
   {
     "id": "sb-tag-004",
@@ -29,7 +32,8 @@
     "category": "SpringBoot",
     "description": "SB标签：REST",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rest"
   },
   {
     "id": "sb-tag-005",
@@ -37,7 +41,8 @@
     "category": "SpringBoot",
     "description": "SB标签：API",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "api"
   },
   {
     "id": "sb-tag-006",
@@ -45,7 +50,8 @@
     "category": "SpringBoot",
     "description": "SB标签：IoC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ioc"
   },
   {
     "id": "sb-tag-007",
@@ -53,7 +59,8 @@
     "category": "SpringBoot",
     "description": "SB标签：DI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "di"
   },
   {
     "id": "sb-tag-008",
@@ -61,7 +68,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Bean",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bean"
   },
   {
     "id": "sb-tag-009",
@@ -69,7 +77,8 @@
     "category": "SpringBoot",
     "description": "SB标签：自动配置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自动配置"
   },
   {
     "id": "sb-tag-010",
@@ -77,7 +86,8 @@
     "category": "SpringBoot",
     "description": "SB标签：起步依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "起步依赖"
   },
   {
     "id": "sb-tag-011",
@@ -85,7 +95,8 @@
     "category": "SpringBoot",
     "description": "SB标签：starter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "starter"
   },
   {
     "id": "sb-tag-012",
@@ -93,7 +104,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Maven",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "maven"
   },
   {
     "id": "sb-tag-013",
@@ -101,7 +113,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Gradle",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gradle"
   },
   {
     "id": "sb-tag-014",
@@ -109,7 +122,8 @@
     "category": "SpringBoot",
     "description": "SB标签：pom.xml",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pom.xml"
   },
   {
     "id": "sb-tag-015",
@@ -117,7 +131,8 @@
     "category": "SpringBoot",
     "description": "SB标签：application.yml",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "application.yml"
   },
   {
     "id": "sb-tag-016",
@@ -125,7 +140,8 @@
     "category": "SpringBoot",
     "description": "SB标签：application.properties",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "application.properties"
   },
   {
     "id": "sb-tag-017",
@@ -133,7 +149,8 @@
     "category": "SpringBoot",
     "description": "SB标签：多环境配置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多环境配置"
   },
   {
     "id": "sb-tag-018",
@@ -141,7 +158,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Profile",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "profile"
   },
   {
     "id": "sb-tag-019",
@@ -149,7 +167,8 @@
     "category": "SpringBoot",
     "description": "SB标签：DevTools",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "devtools"
   },
   {
     "id": "sb-tag-020",
@@ -157,7 +176,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Actuator",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "actuator"
   },
   {
     "id": "sb-tag-021",
@@ -165,7 +185,8 @@
     "category": "SpringBoot",
     "description": "SB标签：内嵌Tomcat",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "内嵌tomcat"
   },
   {
     "id": "sb-tag-022",
@@ -173,7 +194,8 @@
     "category": "SpringBoot",
     "description": "SB标签：内嵌Jetty",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "内嵌jetty"
   },
   {
     "id": "sb-tag-023",
@@ -181,7 +203,8 @@
     "category": "SpringBoot",
     "description": "SB标签：内嵌Undertow",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "内嵌undertow"
   },
   {
     "id": "sb-tag-024",
@@ -189,7 +212,8 @@
     "category": "SpringBoot",
     "description": "SB标签：启动类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "启动类"
   },
   {
     "id": "sb-tag-025",
@@ -197,7 +221,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@SpringBootApplication",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@springbootapplication"
   },
   {
     "id": "sb-tag-026",
@@ -205,7 +230,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Component",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@component"
   },
   {
     "id": "sb-tag-027",
@@ -213,7 +239,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Service",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@service"
   },
   {
     "id": "sb-tag-028",
@@ -221,7 +248,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Repository",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@repository"
   },
   {
     "id": "sb-tag-029",
@@ -229,7 +257,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Controller",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@controller"
   },
   {
     "id": "sb-tag-030",
@@ -237,7 +266,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@RestController",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@restcontroller"
   },
   {
     "id": "sb-tag-031",
@@ -245,7 +275,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@RequestMapping",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@requestmapping"
   },
   {
     "id": "sb-tag-032",
@@ -253,7 +284,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@GetMapping",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@getmapping"
   },
   {
     "id": "sb-tag-033",
@@ -261,7 +293,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@PostMapping",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@postmapping"
   },
   {
     "id": "sb-tag-034",
@@ -269,7 +302,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@PutMapping",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@putmapping"
   },
   {
     "id": "sb-tag-035",
@@ -277,7 +311,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@DeleteMapping",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@deletemapping"
   },
   {
     "id": "sb-tag-036",
@@ -285,7 +320,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@PatchMapping",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@patchmapping"
   },
   {
     "id": "sb-tag-037",
@@ -293,7 +329,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@PathVariable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@pathvariable"
   },
   {
     "id": "sb-tag-038",
@@ -301,7 +338,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@RequestParam",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@requestparam"
   },
   {
     "id": "sb-tag-039",
@@ -309,7 +347,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@RequestBody",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@requestbody"
   },
   {
     "id": "sb-tag-040",
@@ -317,7 +356,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ResponseBody",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@responsebody"
   },
   {
     "id": "sb-tag-041",
@@ -325,7 +365,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ResponseStatus",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@responsestatus"
   },
   {
     "id": "sb-tag-042",
@@ -333,7 +374,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@CrossOrigin",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@crossorigin"
   },
   {
     "id": "sb-tag-043",
@@ -341,7 +383,8 @@
     "category": "SpringBoot",
     "description": "SB标签：请求映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "请求映射"
   },
   {
     "id": "sb-tag-044",
@@ -349,7 +392,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JSON响应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "json响应"
   },
   {
     "id": "sb-tag-045",
@@ -357,7 +401,8 @@
     "category": "SpringBoot",
     "description": "SB标签：统一响应",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "统一响应"
   },
   {
     "id": "sb-tag-046",
@@ -365,7 +410,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Result",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "result"
   },
   {
     "id": "sb-tag-047",
@@ -373,7 +419,8 @@
     "category": "SpringBoot",
     "description": "SB标签：code",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "code"
   },
   {
     "id": "sb-tag-048",
@@ -381,7 +428,8 @@
     "category": "SpringBoot",
     "description": "SB标签：message",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "message"
   },
   {
     "id": "sb-tag-049",
@@ -389,7 +437,8 @@
     "category": "SpringBoot",
     "description": "SB标签：data",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "data"
   },
   {
     "id": "sb-tag-050",
@@ -397,7 +446,8 @@
     "category": "SpringBoot",
     "description": "SB标签：ResponseEntity",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "responseentity"
   },
   {
     "id": "sb-tag-051",
@@ -405,7 +455,8 @@
     "category": "SpringBoot",
     "description": "SB标签：HttpStatus",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "httpstatus"
   },
   {
     "id": "sb-tag-052",
@@ -413,7 +464,8 @@
     "category": "SpringBoot",
     "description": "SB标签：DTO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dto"
   },
   {
     "id": "sb-tag-053",
@@ -421,7 +473,8 @@
     "category": "SpringBoot",
     "description": "SB标签：VO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "vo"
   },
   {
     "id": "sb-tag-054",
@@ -429,7 +482,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Entity",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "entity"
   },
   {
     "id": "sb-tag-055",
@@ -437,7 +491,8 @@
     "category": "SpringBoot",
     "description": "SB标签：POJO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pojo"
   },
   {
     "id": "sb-tag-056",
@@ -445,7 +500,8 @@
     "category": "SpringBoot",
     "description": "SB标签：DO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "do"
   },
   {
     "id": "sb-tag-057",
@@ -453,7 +509,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Converter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "converter"
   },
   {
     "id": "sb-tag-058",
@@ -461,7 +518,8 @@
     "category": "SpringBoot",
     "description": "SB标签：MapStruct",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mapstruct"
   },
   {
     "id": "sb-tag-059",
@@ -469,7 +527,8 @@
     "category": "SpringBoot",
     "description": "SB标签：ModelMapper",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "modelmapper"
   },
   {
     "id": "sb-tag-060",
@@ -477,7 +536,8 @@
     "category": "SpringBoot",
     "description": "SB标签：分层架构",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分层架构"
   },
   {
     "id": "sb-tag-061",
@@ -485,7 +545,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Controller层",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "controller层"
   },
   {
     "id": "sb-tag-062",
@@ -493,7 +554,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Service层",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "service层"
   },
   {
     "id": "sb-tag-063",
@@ -501,7 +563,8 @@
     "category": "SpringBoot",
     "description": "SB标签：ServiceImpl",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "serviceimpl"
   },
   {
     "id": "sb-tag-064",
@@ -509,7 +572,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Mapper层",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mapper层"
   },
   {
     "id": "sb-tag-065",
@@ -517,7 +581,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Repository层",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "repository层"
   },
   {
     "id": "sb-tag-066",
@@ -525,7 +590,8 @@
     "category": "SpringBoot",
     "description": "SB标签：DAO层",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dao层"
   },
   {
     "id": "sb-tag-067",
@@ -533,7 +599,8 @@
     "category": "SpringBoot",
     "description": "SB标签：数据源",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据源"
   },
   {
     "id": "sb-tag-068",
@@ -541,7 +608,8 @@
     "category": "SpringBoot",
     "description": "SB标签：连接池",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接池"
   },
   {
     "id": "sb-tag-069",
@@ -549,7 +617,8 @@
     "category": "SpringBoot",
     "description": "SB标签：HikariCP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hikaricp"
   },
   {
     "id": "sb-tag-070",
@@ -557,7 +626,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Druid",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "druid"
   },
   {
     "id": "sb-tag-071",
@@ -565,7 +635,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JDBC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jdbc"
   },
   {
     "id": "sb-tag-072",
@@ -573,7 +644,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JdbcTemplate",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jdbctemplate"
   },
   {
     "id": "sb-tag-073",
@@ -581,7 +653,8 @@
     "category": "SpringBoot",
     "description": "SB标签：MyBatis",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mybatis"
   },
   {
     "id": "sb-tag-074",
@@ -589,7 +662,8 @@
     "category": "SpringBoot",
     "description": "SB标签：MyBatisPlus",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mybatisplus"
   },
   {
     "id": "sb-tag-075",
@@ -597,7 +671,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JPA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jpa"
   },
   {
     "id": "sb-tag-076",
@@ -605,7 +680,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Hibernate",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hibernate"
   },
   {
     "id": "sb-tag-077",
@@ -613,7 +689,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringData",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springdata"
   },
   {
     "id": "sb-tag-078",
@@ -621,7 +698,8 @@
     "category": "SpringBoot",
     "description": "SB标签：RedisCache",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rediscache"
   },
   {
     "id": "sb-tag-079",
@@ -629,7 +707,8 @@
     "category": "SpringBoot",
     "description": "SB标签：ORM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "orm"
   },
   {
     "id": "sb-tag-080",
@@ -637,7 +716,8 @@
     "category": "SpringBoot",
     "description": "SB标签：对象关系映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对象关系映射"
   },
   {
     "id": "sb-tag-081",
@@ -645,7 +725,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SQL映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sql映射"
   },
   {
     "id": "sb-tag-082",
@@ -653,7 +734,8 @@
     "category": "SpringBoot",
     "description": "SB标签：XML映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "xml映射"
   },
   {
     "id": "sb-tag-083",
@@ -661,7 +743,8 @@
     "category": "SpringBoot",
     "description": "SB标签：注解SQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "注解sql"
   },
   {
     "id": "sb-tag-084",
@@ -669,7 +752,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Select",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@select"
   },
   {
     "id": "sb-tag-085",
@@ -677,7 +761,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Insert",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@insert"
   },
   {
     "id": "sb-tag-086",
@@ -685,7 +770,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Update",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@update"
   },
   {
     "id": "sb-tag-087",
@@ -693,7 +779,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Delete",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@delete"
   },
   {
     "id": "sb-tag-088",
@@ -701,7 +788,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Mapper",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@mapper"
   },
   {
     "id": "sb-tag-089",
@@ -709,7 +797,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@MapperScan",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@mapperscan"
   },
   {
     "id": "sb-tag-090",
@@ -717,7 +806,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Param",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@param"
   },
   {
     "id": "sb-tag-091",
@@ -725,7 +815,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Options",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@options"
   },
   {
     "id": "sb-tag-092",
@@ -733,7 +824,8 @@
     "category": "SpringBoot",
     "description": "SB标签：结果映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结果映射"
   },
   {
     "id": "sb-tag-093",
@@ -741,7 +833,8 @@
     "category": "SpringBoot",
     "description": "SB标签：resultMap",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "resultmap"
   },
   {
     "id": "sb-tag-094",
@@ -749,7 +842,8 @@
     "category": "SpringBoot",
     "description": "SB标签：关联查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "关联查询"
   },
   {
     "id": "sb-tag-095",
@@ -757,7 +851,8 @@
     "category": "SpringBoot",
     "description": "SB标签：一对一",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一对一"
   },
   {
     "id": "sb-tag-096",
@@ -765,7 +860,8 @@
     "category": "SpringBoot",
     "description": "SB标签：一对多",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一对多"
   },
   {
     "id": "sb-tag-097",
@@ -773,7 +869,8 @@
     "category": "SpringBoot",
     "description": "SB标签：多对多",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多对多"
   },
   {
     "id": "sb-tag-098",
@@ -781,7 +878,8 @@
     "category": "SpringBoot",
     "description": "SB标签：分页",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分页"
   },
   {
     "id": "sb-tag-099",
@@ -789,7 +887,8 @@
     "category": "SpringBoot",
     "description": "SB标签：PageHelper",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pagehelper"
   },
   {
     "id": "sb-tag-100",
@@ -797,7 +896,8 @@
     "category": "SpringBoot",
     "description": "SB标签：分页查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分页查询"
   },
   {
     "id": "sb-tag-101",
@@ -805,7 +905,8 @@
     "category": "SpringBoot",
     "description": "SB标签：条件查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件查询"
   },
   {
     "id": "sb-tag-102",
@@ -813,7 +914,8 @@
     "category": "SpringBoot",
     "description": "SB标签：动态SQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "动态sql"
   },
   {
     "id": "sb-tag-103",
@@ -821,7 +923,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<if>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<if>"
   },
   {
     "id": "sb-tag-104",
@@ -829,7 +932,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<where>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<where>"
   },
   {
     "id": "sb-tag-105",
@@ -837,7 +941,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<foreach>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<foreach>"
   },
   {
     "id": "sb-tag-106",
@@ -845,7 +950,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<set>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<set>"
   },
   {
     "id": "sb-tag-107",
@@ -853,7 +959,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<choose>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<choose>"
   },
   {
     "id": "sb-tag-108",
@@ -861,7 +968,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<when>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<when>"
   },
   {
     "id": "sb-tag-109",
@@ -869,7 +977,8 @@
     "category": "SpringBoot",
     "description": "SB标签：<otherwise>",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "<otherwise>"
   },
   {
     "id": "sb-tag-110",
@@ -877,7 +986,8 @@
     "category": "SpringBoot",
     "description": "SB标签：事务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "事务"
   },
   {
     "id": "sb-tag-111",
@@ -885,7 +995,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Transactional",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@transactional"
   },
   {
     "id": "sb-tag-112",
@@ -893,7 +1004,8 @@
     "category": "SpringBoot",
     "description": "SB标签：事务传播",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "事务传播"
   },
   {
     "id": "sb-tag-113",
@@ -901,7 +1013,8 @@
     "category": "SpringBoot",
     "description": "SB标签：事务隔离",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "事务隔离"
   },
   {
     "id": "sb-tag-114",
@@ -909,7 +1022,8 @@
     "category": "SpringBoot",
     "description": "SB标签：回滚",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "回滚"
   },
   {
     "id": "sb-tag-115",
@@ -917,7 +1031,8 @@
     "category": "SpringBoot",
     "description": "SB标签：只读事务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "只读事务"
   },
   {
     "id": "sb-tag-116",
@@ -925,7 +1040,8 @@
     "category": "SpringBoot",
     "description": "SB标签：超时",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "超时"
   },
   {
     "id": "sb-tag-117",
@@ -933,7 +1049,8 @@
     "category": "SpringBoot",
     "description": "SB标签：参数校验",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参数校验"
   },
   {
     "id": "sb-tag-118",
@@ -941,7 +1058,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Valid",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@valid"
   },
   {
     "id": "sb-tag-119",
@@ -949,7 +1067,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Validated",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@validated"
   },
   {
     "id": "sb-tag-120",
@@ -957,7 +1076,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@NotNull",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@notnull"
   },
   {
     "id": "sb-tag-121",
@@ -965,7 +1085,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@NotBlank",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@notblank"
   },
   {
     "id": "sb-tag-122",
@@ -973,7 +1094,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Size",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@size"
   },
   {
     "id": "sb-tag-123",
@@ -981,7 +1103,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Min",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@min"
   },
   {
     "id": "sb-tag-124",
@@ -989,7 +1112,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Max",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@max"
   },
   {
     "id": "sb-tag-125",
@@ -997,7 +1121,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Email",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@email"
   },
   {
     "id": "sb-tag-126",
@@ -1005,7 +1130,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Pattern",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@pattern"
   },
   {
     "id": "sb-tag-127",
@@ -1013,7 +1139,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@AssertTrue",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@asserttrue"
   },
   {
     "id": "sb-tag-128",
@@ -1021,7 +1148,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Future",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@future"
   },
   {
     "id": "sb-tag-129",
@@ -1029,7 +1157,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Past",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@past"
   },
   {
     "id": "sb-tag-130",
@@ -1037,7 +1166,8 @@
     "category": "SpringBoot",
     "description": "SB标签：自定义校验",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自定义校验"
   },
   {
     "id": "sb-tag-131",
@@ -1045,7 +1175,8 @@
     "category": "SpringBoot",
     "description": "SB标签：分组校验",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分组校验"
   },
   {
     "id": "sb-tag-132",
@@ -1053,7 +1184,8 @@
     "category": "SpringBoot",
     "description": "SB标签：全局异常处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全局异常处理"
   },
   {
     "id": "sb-tag-133",
@@ -1061,7 +1193,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ControllerAdvice",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@controlleradvice"
   },
   {
     "id": "sb-tag-134",
@@ -1069,7 +1202,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ExceptionHandler",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@exceptionhandler"
   },
   {
     "id": "sb-tag-135",
@@ -1077,7 +1211,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@RestControllerAdvice",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@restcontrolleradvice"
   },
   {
     "id": "sb-tag-136",
@@ -1085,7 +1220,8 @@
     "category": "SpringBoot",
     "description": "SB标签：自定义异常",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自定义异常"
   },
   {
     "id": "sb-tag-137",
@@ -1093,7 +1229,8 @@
     "category": "SpringBoot",
     "description": "SB标签：业务异常",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "业务异常"
   },
   {
     "id": "sb-tag-138",
@@ -1101,7 +1238,8 @@
     "category": "SpringBoot",
     "description": "SB标签：错误码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "错误码"
   },
   {
     "id": "sb-tag-139",
@@ -1109,7 +1247,8 @@
     "category": "SpringBoot",
     "description": "SB标签：统一异常返回",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "统一异常返回"
   },
   {
     "id": "sb-tag-140",
@@ -1117,7 +1256,8 @@
     "category": "SpringBoot",
     "description": "SB标签：日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日志"
   },
   {
     "id": "sb-tag-141",
@@ -1125,7 +1265,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Logback",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "logback"
   },
   {
     "id": "sb-tag-142",
@@ -1133,7 +1274,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SLF4J",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "slf4j"
   },
   {
     "id": "sb-tag-143",
@@ -1141,7 +1283,8 @@
     "category": "SpringBoot",
     "description": "SB标签：日志级别",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日志级别"
   },
   {
     "id": "sb-tag-144",
@@ -1149,7 +1292,8 @@
     "category": "SpringBoot",
     "description": "SB标签：日志配置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日志配置"
   },
   {
     "id": "sb-tag-145",
@@ -1157,7 +1301,8 @@
     "category": "SpringBoot",
     "description": "SB标签：请求日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "请求日志"
   },
   {
     "id": "sb-tag-146",
@@ -1165,7 +1310,8 @@
     "category": "SpringBoot",
     "description": "SB标签：切面日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "切面日志"
   },
   {
     "id": "sb-tag-147",
@@ -1173,7 +1319,8 @@
     "category": "SpringBoot",
     "description": "SB标签：AOP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "aop"
   },
   {
     "id": "sb-tag-148",
@@ -1181,7 +1328,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Aspect",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@aspect"
   },
   {
     "id": "sb-tag-149",
@@ -1189,7 +1337,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Before",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@before"
   },
   {
     "id": "sb-tag-150",
@@ -1197,7 +1346,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@After",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@after"
   },
   {
     "id": "sb-tag-151",
@@ -1205,7 +1355,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Around",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@around"
   },
   {
     "id": "sb-tag-152",
@@ -1213,7 +1364,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Pointcut",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@pointcut"
   },
   {
     "id": "sb-tag-153",
@@ -1221,7 +1373,8 @@
     "category": "SpringBoot",
     "description": "SB标签：切入点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "切入点"
   },
   {
     "id": "sb-tag-154",
@@ -1229,7 +1382,8 @@
     "category": "SpringBoot",
     "description": "SB标签：通知",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "通知"
   },
   {
     "id": "sb-tag-155",
@@ -1237,7 +1391,8 @@
     "category": "SpringBoot",
     "description": "SB标签：连接点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接点"
   },
   {
     "id": "sb-tag-156",
@@ -1245,7 +1400,8 @@
     "category": "SpringBoot",
     "description": "SB标签：切面编程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "切面编程"
   },
   {
     "id": "sb-tag-157",
@@ -1253,7 +1409,8 @@
     "category": "SpringBoot",
     "description": "SB标签：登录认证",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "登录认证"
   },
   {
     "id": "sb-tag-158",
@@ -1261,7 +1418,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Session",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "session"
   },
   {
     "id": "sb-tag-159",
@@ -1269,7 +1427,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Cookie",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cookie"
   },
   {
     "id": "sb-tag-160",
@@ -1277,7 +1436,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Token",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "token"
   },
   {
     "id": "sb-tag-161",
@@ -1285,7 +1445,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JWT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jwt"
   },
   {
     "id": "sb-tag-162",
@@ -1293,7 +1454,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JJWT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jjwt"
   },
   {
     "id": "sb-tag-163",
@@ -1301,7 +1463,8 @@
     "category": "SpringBoot",
     "description": "SB标签：拦截器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拦截器"
   },
   {
     "id": "sb-tag-164",
@@ -1309,7 +1472,8 @@
     "category": "SpringBoot",
     "description": "SB标签：HandlerInterceptor",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "handlerinterceptor"
   },
   {
     "id": "sb-tag-165",
@@ -1317,7 +1481,8 @@
     "category": "SpringBoot",
     "description": "SB标签：WebMvcConfig",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "webmvcconfig"
   },
   {
     "id": "sb-tag-166",
@@ -1325,7 +1490,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Filter",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "filter"
   },
   {
     "id": "sb-tag-167",
@@ -1333,7 +1499,8 @@
     "category": "SpringBoot",
     "description": "SB标签：过滤器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "过滤器"
   },
   {
     "id": "sb-tag-168",
@@ -1341,7 +1508,8 @@
     "category": "SpringBoot",
     "description": "SB标签：跨域",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "跨域"
   },
   {
     "id": "sb-tag-169",
@@ -1349,7 +1517,8 @@
     "category": "SpringBoot",
     "description": "SB标签：CORS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cors"
   },
   {
     "id": "sb-tag-170",
@@ -1357,7 +1526,8 @@
     "category": "SpringBoot",
     "description": "SB标签：同源策略",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "同源策略"
   },
   {
     "id": "sb-tag-171",
@@ -1365,7 +1535,8 @@
     "category": "SpringBoot",
     "description": "SB标签：安全配置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "安全配置"
   },
   {
     "id": "sb-tag-172",
@@ -1373,7 +1544,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringSecurity",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springsecurity"
   },
   {
     "id": "sb-tag-173",
@@ -1381,7 +1553,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Shiro",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "shiro"
   },
   {
     "id": "sb-tag-174",
@@ -1389,7 +1562,8 @@
     "category": "SpringBoot",
     "description": "SB标签：OAuth2",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "oauth2"
   },
   {
     "id": "sb-tag-175",
@@ -1397,7 +1571,8 @@
     "category": "SpringBoot",
     "description": "SB标签：权限控制",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "权限控制"
   },
   {
     "id": "sb-tag-176",
@@ -1405,7 +1580,8 @@
     "category": "SpringBoot",
     "description": "SB标签：角色",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "角色"
   },
   {
     "id": "sb-tag-177",
@@ -1413,7 +1589,8 @@
     "category": "SpringBoot",
     "description": "SB标签：权限",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "权限"
   },
   {
     "id": "sb-tag-178",
@@ -1421,7 +1598,8 @@
     "category": "SpringBoot",
     "description": "SB标签：用户认证",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "用户认证"
   },
   {
     "id": "sb-tag-179",
@@ -1429,7 +1607,8 @@
     "category": "SpringBoot",
     "description": "SB标签：密码加密",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "密码加密"
   },
   {
     "id": "sb-tag-180",
@@ -1437,7 +1616,8 @@
     "category": "SpringBoot",
     "description": "SB标签：BCryptPasswordEncoder",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bcryptpasswordencoder"
   },
   {
     "id": "sb-tag-181",
@@ -1445,7 +1625,8 @@
     "category": "SpringBoot",
     "description": "SB标签：文件上传",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "文件上传"
   },
   {
     "id": "sb-tag-182",
@@ -1453,7 +1634,8 @@
     "category": "SpringBoot",
     "description": "SB标签：MultipartFile",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "multipartfile"
   },
   {
     "id": "sb-tag-183",
@@ -1461,7 +1643,8 @@
     "category": "SpringBoot",
     "description": "SB标签：文件存储",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "文件存储"
   },
   {
     "id": "sb-tag-184",
@@ -1469,7 +1652,8 @@
     "category": "SpringBoot",
     "description": "SB标签：静态资源",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "静态资源"
   },
   {
     "id": "sb-tag-185",
@@ -1477,7 +1661,8 @@
     "category": "SpringBoot",
     "description": "SB标签：静态资源配置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "静态资源配置"
   },
   {
     "id": "sb-tag-186",
@@ -1485,7 +1670,8 @@
     "category": "SpringBoot",
     "description": "SB标签：资源映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "资源映射"
   },
   {
     "id": "sb-tag-187",
@@ -1493,7 +1679,8 @@
     "category": "SpringBoot",
     "description": "SB标签：接口文档",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "接口文档"
   },
   {
     "id": "sb-tag-188",
@@ -1501,7 +1688,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Swagger",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "swagger"
   },
   {
     "id": "sb-tag-189",
@@ -1509,7 +1697,8 @@
     "category": "SpringBoot",
     "description": "SB标签：OpenAPI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "openapi"
   },
   {
     "id": "sb-tag-190",
@@ -1517,7 +1706,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Knife4j",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "knife4j"
   },
   {
     "id": "sb-tag-191",
@@ -1525,7 +1715,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Api",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@api"
   },
   {
     "id": "sb-tag-192",
@@ -1533,7 +1724,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ApiOperation",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@apioperation"
   },
   {
     "id": "sb-tag-193",
@@ -1541,7 +1733,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ApiParam",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@apiparam"
   },
   {
     "id": "sb-tag-194",
@@ -1549,7 +1742,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ApiModel",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@apimodel"
   },
   {
     "id": "sb-tag-195",
@@ -1557,7 +1751,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ApiModelProperty",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@apimodelproperty"
   },
   {
     "id": "sb-tag-196",
@@ -1565,7 +1760,8 @@
     "category": "SpringBoot",
     "description": "SB标签：单元测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单元测试"
   },
   {
     "id": "sb-tag-197",
@@ -1573,7 +1769,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JUnit4",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "junit4"
   },
   {
     "id": "sb-tag-198",
@@ -1581,7 +1778,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JUnit5",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "junit5"
   },
   {
     "id": "sb-tag-199",
@@ -1589,7 +1787,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Mockito",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mockito"
   },
   {
     "id": "sb-tag-200",
@@ -1597,7 +1796,8 @@
     "category": "SpringBoot",
     "description": "SB标签：MockMvc",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mockmvc"
   },
   {
     "id": "sb-tag-201",
@@ -1605,7 +1805,8 @@
     "category": "SpringBoot",
     "description": "SB标签：WebMvcTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "webmvctest"
   },
   {
     "id": "sb-tag-202",
@@ -1613,7 +1814,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringBootTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springboottest"
   },
   {
     "id": "sb-tag-203",
@@ -1621,7 +1823,8 @@
     "category": "SpringBoot",
     "description": "SB标签：集成测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "集成测试"
   },
   {
     "id": "sb-tag-204",
@@ -1629,7 +1832,8 @@
     "category": "SpringBoot",
     "description": "SB标签：测试覆盖率",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "测试覆盖率"
   },
   {
     "id": "sb-tag-205",
@@ -1637,7 +1841,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Postman",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "postman"
   },
   {
     "id": "sb-tag-206",
@@ -1645,7 +1850,8 @@
     "category": "SpringBoot",
     "description": "SB标签：调试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "调试"
   },
   {
     "id": "sb-tag-207",
@@ -1653,7 +1859,8 @@
     "category": "SpringBoot",
     "description": "SB标签：部署",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "部署"
   },
   {
     "id": "sb-tag-208",
@@ -1661,7 +1868,8 @@
     "category": "SpringBoot",
     "description": "SB标签：构建",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "构建"
   },
   {
     "id": "sb-tag-209",
@@ -1669,7 +1877,8 @@
     "category": "SpringBoot",
     "description": "SB标签：JAR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jar"
   },
   {
     "id": "sb-tag-210",
@@ -1677,7 +1886,8 @@
     "category": "SpringBoot",
     "description": "SB标签：WAR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "war"
   },
   {
     "id": "sb-tag-211",
@@ -1685,7 +1895,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Maven打包",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "maven打包"
   },
   {
     "id": "sb-tag-212",
@@ -1693,7 +1904,8 @@
     "category": "SpringBoot",
     "description": "SB标签：服务器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "服务器"
   },
   {
     "id": "sb-tag-213",
@@ -1701,7 +1913,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Linux",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "linux"
   },
   {
     "id": "sb-tag-214",
@@ -1709,7 +1922,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Nginx",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nginx"
   },
   {
     "id": "sb-tag-215",
@@ -1717,7 +1931,8 @@
     "category": "SpringBoot",
     "description": "SB标签：反向代理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反向代理"
   },
   {
     "id": "sb-tag-216",
@@ -1725,7 +1940,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Docker",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "docker"
   },
   {
     "id": "sb-tag-217",
@@ -1733,7 +1949,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Dockerfile",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dockerfile"
   },
   {
     "id": "sb-tag-218",
@@ -1741,7 +1958,8 @@
     "category": "SpringBoot",
     "description": "SB标签：镜像",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "镜像"
   },
   {
     "id": "sb-tag-219",
@@ -1749,7 +1967,8 @@
     "category": "SpringBoot",
     "description": "SB标签：容器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "容器"
   },
   {
     "id": "sb-tag-220",
@@ -1757,7 +1976,8 @@
     "category": "SpringBoot",
     "description": "SB标签：docker-compose",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "docker-compose"
   },
   {
     "id": "sb-tag-221",
@@ -1765,7 +1985,8 @@
     "category": "SpringBoot",
     "description": "SB标签：云部署",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "云部署"
   },
   {
     "id": "sb-tag-222",
@@ -1773,7 +1994,8 @@
     "category": "SpringBoot",
     "description": "SB标签：项目实战",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "项目实战"
   },
   {
     "id": "sb-tag-223",
@@ -1781,7 +2003,8 @@
     "category": "SpringBoot",
     "description": "SB标签：CRUD",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "crud"
   },
   {
     "id": "sb-tag-224",
@@ -1789,7 +2012,8 @@
     "category": "SpringBoot",
     "description": "SB标签：用户管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "用户管理"
   },
   {
     "id": "sb-tag-225",
@@ -1797,7 +2021,8 @@
     "category": "SpringBoot",
     "description": "SB标签：角色管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "角色管理"
   },
   {
     "id": "sb-tag-226",
@@ -1805,7 +2030,8 @@
     "category": "SpringBoot",
     "description": "SB标签：权限管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "权限管理"
   },
   {
     "id": "sb-tag-227",
@@ -1813,7 +2039,8 @@
     "category": "SpringBoot",
     "description": "SB标签：文章管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "文章管理"
   },
   {
     "id": "sb-tag-228",
@@ -1821,7 +2048,8 @@
     "category": "SpringBoot",
     "description": "SB标签：分类管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分类管理"
   },
   {
     "id": "sb-tag-229",
@@ -1829,7 +2057,8 @@
     "category": "SpringBoot",
     "description": "SB标签：评论管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "评论管理"
   },
   {
     "id": "sb-tag-230",
@@ -1837,7 +2066,8 @@
     "category": "SpringBoot",
     "description": "SB标签：订单管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "订单管理"
   },
   {
     "id": "sb-tag-231",
@@ -1845,7 +2075,8 @@
     "category": "SpringBoot",
     "description": "SB标签：商品管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "商品管理"
   },
   {
     "id": "sb-tag-232",
@@ -1853,7 +2084,8 @@
     "category": "SpringBoot",
     "description": "SB标签：购物车",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "购物车"
   },
   {
     "id": "sb-tag-233",
@@ -1861,7 +2093,8 @@
     "category": "SpringBoot",
     "description": "SB标签：支付",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "支付"
   },
   {
     "id": "sb-tag-234",
@@ -1869,7 +2102,8 @@
     "category": "SpringBoot",
     "description": "SB标签：博客系统",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "博客系统"
   },
   {
     "id": "sb-tag-235",
@@ -1877,7 +2111,8 @@
     "category": "SpringBoot",
     "description": "SB标签：管理系统",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "管理系统"
   },
   {
     "id": "sb-tag-236",
@@ -1885,7 +2120,8 @@
     "category": "SpringBoot",
     "description": "SB标签：企业项目",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "企业项目"
   },
   {
     "id": "sb-tag-237",
@@ -1893,7 +2129,8 @@
     "category": "SpringBoot",
     "description": "SB标签：代码生成器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代码生成器"
   },
   {
     "id": "sb-tag-238",
@@ -1901,7 +2138,8 @@
     "category": "SpringBoot",
     "description": "SB标签：MyBatisX",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mybatisx"
   },
   {
     "id": "sb-tag-239",
@@ -1909,7 +2147,8 @@
     "category": "SpringBoot",
     "description": "SB标签：逆向工程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逆向工程"
   },
   {
     "id": "sb-tag-240",
@@ -1917,7 +2156,8 @@
     "category": "SpringBoot",
     "description": "SB标签：通用Mapper",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "通用mapper"
   },
   {
     "id": "sb-tag-241",
@@ -1925,7 +2165,8 @@
     "category": "SpringBoot",
     "description": "SB标签：多数据源",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多数据源"
   },
   {
     "id": "sb-tag-242",
@@ -1933,7 +2174,8 @@
     "category": "SpringBoot",
     "description": "SB标签：读写分离",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "读写分离"
   },
   {
     "id": "sb-tag-243",
@@ -1941,7 +2183,8 @@
     "category": "SpringBoot",
     "description": "SB标签：分布式事务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分布式事务"
   },
   {
     "id": "sb-tag-244",
@@ -1949,7 +2192,8 @@
     "category": "SpringBoot",
     "description": "SB标签：缓存",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "缓存"
   },
   {
     "id": "sb-tag-245",
@@ -1957,7 +2201,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Redis",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "redis"
   },
   {
     "id": "sb-tag-246",
@@ -1965,7 +2210,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringCache",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springcache"
   },
   {
     "id": "sb-tag-247",
@@ -1973,7 +2219,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Cacheable",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@cacheable"
   },
   {
     "id": "sb-tag-248",
@@ -1981,7 +2228,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@CacheEvict",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@cacheevict"
   },
   {
     "id": "sb-tag-249",
@@ -1989,7 +2237,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@CachePut",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@cacheput"
   },
   {
     "id": "sb-tag-250",
@@ -1997,7 +2246,8 @@
     "category": "SpringBoot",
     "description": "SB标签：消息队列",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "消息队列"
   },
   {
     "id": "sb-tag-251",
@@ -2005,7 +2255,8 @@
     "category": "SpringBoot",
     "description": "SB标签：RabbitMQ",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rabbitmq"
   },
   {
     "id": "sb-tag-252",
@@ -2013,7 +2264,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Kafka",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "kafka"
   },
   {
     "id": "sb-tag-253",
@@ -2021,7 +2273,8 @@
     "category": "SpringBoot",
     "description": "SB标签：异步",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "异步"
   },
   {
     "id": "sb-tag-254",
@@ -2029,7 +2282,8 @@
     "category": "SpringBoot",
     "description": "SB标签：定时任务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "定时任务"
   },
   {
     "id": "sb-tag-255",
@@ -2037,7 +2291,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Scheduled",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@scheduled"
   },
   {
     "id": "sb-tag-256",
@@ -2045,7 +2300,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@EnableScheduling",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@enablescheduling"
   },
   {
     "id": "sb-tag-257",
@@ -2053,7 +2309,8 @@
     "category": "SpringBoot",
     "description": "SB标签：邮件发送",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "邮件发送"
   },
   {
     "id": "sb-tag-258",
@@ -2061,7 +2318,8 @@
     "category": "SpringBoot",
     "description": "SB标签：验证码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "验证码"
   },
   {
     "id": "sb-tag-259",
@@ -2069,7 +2327,8 @@
     "category": "SpringBoot",
     "description": "SB标签：短信",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "短信"
   },
   {
     "id": "sb-tag-260",
@@ -2077,7 +2336,8 @@
     "category": "SpringBoot",
     "description": "SB标签：WebSocket",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "websocket"
   },
   {
     "id": "sb-tag-261",
@@ -2085,7 +2345,8 @@
     "category": "SpringBoot",
     "description": "SB标签：实时通知",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "实时通知"
   },
   {
     "id": "sb-tag-262",
@@ -2093,7 +2354,8 @@
     "category": "SpringBoot",
     "description": "SB标签：聚合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "聚合"
   },
   {
     "id": "sb-tag-263",
@@ -2101,7 +2363,8 @@
     "category": "SpringBoot",
     "description": "SB标签：打包",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "打包"
   },
   {
     "id": "sb-tag-264",
@@ -2109,7 +2372,8 @@
     "category": "SpringBoot",
     "description": "SB标签：上线",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "上线"
   },
   {
     "id": "sb-tag-265",
@@ -2117,7 +2381,8 @@
     "category": "SpringBoot",
     "description": "SB标签：部署文档",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "部署文档"
   },
   {
     "id": "sb-tag-266",
@@ -2125,7 +2390,8 @@
     "category": "SpringBoot",
     "description": "SB标签：项目文档",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "项目文档"
   },
   {
     "id": "sb-tag-267",
@@ -2133,7 +2399,8 @@
     "category": "SpringBoot",
     "description": "SB标签：API文档",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "api文档"
   },
   {
     "id": "sb-tag-268",
@@ -2141,7 +2408,8 @@
     "category": "SpringBoot",
     "description": "SB标签：数据库文档",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库文档"
   },
   {
     "id": "sb-tag-269",
@@ -2149,7 +2417,8 @@
     "category": "SpringBoot",
     "description": "SB标签：简历",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "简历"
   },
   {
     "id": "sb-tag-270",
@@ -2157,7 +2426,8 @@
     "category": "SpringBoot",
     "description": "SB标签：面试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "面试"
   },
   {
     "id": "sb-tag-271",
@@ -2165,7 +2435,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringBoot面试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springboot面试"
   },
   {
     "id": "sb-tag-272",
@@ -2173,7 +2444,8 @@
     "category": "SpringBoot",
     "description": "SB标签：微服务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "微服务"
   },
   {
     "id": "sb-tag-273",
@@ -2181,7 +2453,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringCloud",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springcloud"
   },
   {
     "id": "sb-tag-274",
@@ -2189,7 +2462,8 @@
     "category": "SpringBoot",
     "description": "SB标签：网关Gateway",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "网关gateway"
   },
   {
     "id": "sb-tag-275",
@@ -2197,7 +2471,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Nacos",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nacos"
   },
   {
     "id": "sb-tag-276",
@@ -2205,7 +2480,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Sentinel",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sentinel"
   },
   {
     "id": "sb-tag-277",
@@ -2213,7 +2489,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Feign",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "feign"
   },
   {
     "id": "sb-tag-278",
@@ -2221,7 +2498,8 @@
     "category": "SpringBoot",
     "description": "SB标签：负载均衡",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "负载均衡"
   },
   {
     "id": "sb-tag-279",
@@ -2229,7 +2507,8 @@
     "category": "SpringBoot",
     "description": "SB标签：熔断降级",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "熔断降级"
   },
   {
     "id": "sb-tag-280",
@@ -2237,7 +2516,8 @@
     "category": "SpringBoot",
     "description": "SB标签：配置中心",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "配置中心"
   },
   {
     "id": "sb-tag-281",
@@ -2245,7 +2525,8 @@
     "category": "SpringBoot",
     "description": "SB标签：链路追踪",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "链路追踪"
   },
   {
     "id": "sb-tag-282",
@@ -2253,7 +2534,8 @@
     "category": "SpringBoot",
     "description": "SB标签：服务网格",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "服务网格"
   },
   {
     "id": "sb-tag-283",
@@ -2261,7 +2543,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Docker",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "docker"
   },
   {
     "id": "sb-tag-284",
@@ -2269,7 +2552,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Kubernetes",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "kubernetes"
   },
   {
     "id": "sb-tag-285",
@@ -2277,7 +2561,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Jenkins",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "jenkins"
   },
   {
     "id": "sb-tag-286",
@@ -2285,7 +2570,8 @@
     "category": "SpringBoot",
     "description": "SB标签：CI/CD",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ci/cd"
   },
   {
     "id": "sb-tag-287",
@@ -2293,7 +2579,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringBoot核心",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springboot核心"
   },
   {
     "id": "sb-tag-288",
@@ -2301,7 +2588,8 @@
     "category": "SpringBoot",
     "description": "SB标签：启动流程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "启动流程"
   },
   {
     "id": "sb-tag-289",
@@ -2309,7 +2597,8 @@
     "category": "SpringBoot",
     "description": "SB标签：条件注解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件注解"
   },
   {
     "id": "sb-tag-290",
@@ -2317,7 +2606,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Conditional",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@conditional"
   },
   {
     "id": "sb-tag-291",
@@ -2325,7 +2615,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Import",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@import"
   },
   {
     "id": "sb-tag-292",
@@ -2333,7 +2624,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ImportResource",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@importresource"
   },
   {
     "id": "sb-tag-293",
@@ -2341,7 +2633,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@PropertySource",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@propertysource"
   },
   {
     "id": "sb-tag-294",
@@ -2349,7 +2642,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Test",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@test"
   },
   {
     "id": "sb-tag-295",
@@ -2357,7 +2651,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@SpringBootTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@springboottest"
   },
   {
     "id": "sb-tag-296",
@@ -2365,7 +2660,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@WebMvcTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@webmvctest"
   },
   {
     "id": "sb-tag-297",
@@ -2373,7 +2669,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@DataJpaTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@datajpatest"
   },
   {
     "id": "sb-tag-298",
@@ -2381,7 +2678,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@MybatisTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@mybatistest"
   },
   {
     "id": "sb-tag-299",
@@ -2389,7 +2687,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@RestClientTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@restclienttest"
   },
   {
     "id": "sb-tag-300",
@@ -2397,7 +2696,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@JsonTest",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@jsontest"
   },
   {
     "id": "sb-tag-301",
@@ -2405,7 +2705,8 @@
     "category": "SpringBoot",
     "description": "SB标签：测试切片",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "测试切片"
   },
   {
     "id": "sb-tag-302",
@@ -2413,7 +2714,8 @@
     "category": "SpringBoot",
     "description": "SB标签：嵌入式数据库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "嵌入式数据库"
   },
   {
     "id": "sb-tag-303",
@@ -2421,7 +2723,8 @@
     "category": "SpringBoot",
     "description": "SB标签：H2",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "h2"
   },
   {
     "id": "sb-tag-304",
@@ -2429,7 +2732,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Sql",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@sql"
   },
   {
     "id": "sb-tag-305",
@@ -2437,7 +2741,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@Rollback",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@rollback"
   },
   {
     "id": "sb-tag-306",
@@ -2445,7 +2750,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@MockBean",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@mockbean"
   },
   {
     "id": "sb-tag-307",
@@ -2453,7 +2759,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@SpyBean",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@spybean"
   },
   {
     "id": "sb-tag-308",
@@ -2461,7 +2768,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ContextConfiguration",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@contextconfiguration"
   },
   {
     "id": "sb-tag-309",
@@ -2469,7 +2777,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ActiveProfiles",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@activeprofiles"
   },
   {
     "id": "sb-tag-310",
@@ -2477,7 +2786,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@TestConfiguration",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@testconfiguration"
   },
   {
     "id": "sb-tag-311",
@@ -2485,7 +2795,8 @@
     "category": "SpringBoot",
     "description": "SB标签：测试容器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "测试容器"
   },
   {
     "id": "sb-tag-312",
@@ -2493,7 +2804,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@TestMethodOrder",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@testmethodorder"
   },
   {
     "id": "sb-tag-313",
@@ -2501,7 +2813,8 @@
     "category": "SpringBoot",
     "description": "SB标签：参数化测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参数化测试"
   },
   {
     "id": "sb-tag-314",
@@ -2509,7 +2822,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@CsvSource",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@csvsource"
   },
   {
     "id": "sb-tag-315",
@@ -2517,7 +2831,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@ValueSource",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@valuesource"
   },
   {
     "id": "sb-tag-316",
@@ -2525,7 +2840,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@EnumSource",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@enumsource"
   },
   {
     "id": "sb-tag-317",
@@ -2533,7 +2849,8 @@
     "category": "SpringBoot",
     "description": "SB标签：@MethodSource",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "@methodsource"
   },
   {
     "id": "sb-tag-318",
@@ -2541,7 +2858,8 @@
     "category": "SpringBoot",
     "description": "SB标签：组合测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "组合测试"
   },
   {
     "id": "sb-tag-319",
@@ -2549,7 +2867,8 @@
     "category": "SpringBoot",
     "description": "SB标签：端到端测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "端到端测试"
   },
   {
     "id": "sb-tag-320",
@@ -2557,7 +2876,8 @@
     "category": "SpringBoot",
     "description": "SB标签：契约测试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "契约测试"
   },
   {
     "id": "sb-tag-321",
@@ -2565,7 +2885,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Pact框架",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pact框架"
   },
   {
     "id": "sb-tag-322",
@@ -2573,7 +2894,8 @@
     "category": "SpringBoot",
     "description": "SB标签：API兼容性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "api兼容性"
   },
   {
     "id": "sb-tag-323",
@@ -2581,7 +2903,8 @@
     "category": "SpringBoot",
     "description": "SB标签：语义化版本",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "语义化版本"
   },
   {
     "id": "sb-tag-324",
@@ -2589,7 +2912,8 @@
     "category": "SpringBoot",
     "description": "SB标签：后端安全",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "后端安全"
   },
   {
     "id": "sb-tag-325",
@@ -2597,7 +2921,8 @@
     "category": "SpringBoot",
     "description": "SB标签：XSS防护",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "xss防护"
   },
   {
     "id": "sb-tag-326",
@@ -2605,7 +2930,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SQL注入",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sql注入"
   },
   {
     "id": "sb-tag-327",
@@ -2613,7 +2939,8 @@
     "category": "SpringBoot",
     "description": "SB标签：CSRF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "csrf"
   },
   {
     "id": "sb-tag-328",
@@ -2621,7 +2948,8 @@
     "category": "SpringBoot",
     "description": "SB标签：HTTPS配置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "https配置"
   },
   {
     "id": "sb-tag-329",
@@ -2629,7 +2957,8 @@
     "category": "SpringBoot",
     "description": "SB标签：数据脱敏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据脱敏"
   },
   {
     "id": "sb-tag-330",
@@ -2637,7 +2966,8 @@
     "category": "SpringBoot",
     "description": "SB标签：接口限流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "接口限流"
   },
   {
     "id": "sb-tag-331",
@@ -2645,7 +2975,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Hystrix",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hystrix"
   },
   {
     "id": "sb-tag-332",
@@ -2653,7 +2984,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Resilience4j",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "resilience4j"
   },
   {
     "id": "sb-tag-333",
@@ -2661,7 +2993,8 @@
     "category": "SpringBoot",
     "description": "SB标签：熔断",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "熔断"
   },
   {
     "id": "sb-tag-334",
@@ -2669,7 +3002,8 @@
     "category": "SpringBoot",
     "description": "SB标签：降级",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "降级"
   },
   {
     "id": "sb-tag-335",
@@ -2677,7 +3011,8 @@
     "category": "SpringBoot",
     "description": "SB标签：限流",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "限流"
   },
   {
     "id": "sb-tag-336",
@@ -2685,7 +3020,8 @@
     "category": "SpringBoot",
     "description": "SB标签：重试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "重试"
   },
   {
     "id": "sb-tag-337",
@@ -2693,7 +3029,8 @@
     "category": "SpringBoot",
     "description": "SB标签：舱壁隔离",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "舱壁隔离"
   },
   {
     "id": "sb-tag-338",
@@ -2701,7 +3038,8 @@
     "category": "SpringBoot",
     "description": "SB标签：GitLabCI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gitlabci"
   },
   {
     "id": "sb-tag-339",
@@ -2709,7 +3047,8 @@
     "category": "SpringBoot",
     "description": "SB标签：GitHubActions",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "githubactions"
   },
   {
     "id": "sb-tag-340",
@@ -2717,7 +3056,8 @@
     "category": "SpringBoot",
     "description": "SB标签：云原生",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "云原生"
   },
   {
     "id": "sb-tag-341",
@@ -2725,7 +3065,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringNative",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springnative"
   },
   {
     "id": "sb-tag-342",
@@ -2733,7 +3074,8 @@
     "category": "SpringBoot",
     "description": "SB标签：GraalVM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "graalvm"
   },
   {
     "id": "sb-tag-343",
@@ -2741,7 +3083,8 @@
     "category": "SpringBoot",
     "description": "SB标签：AOT编译",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "aot编译"
   },
   {
     "id": "sb-tag-344",
@@ -2749,7 +3092,8 @@
     "category": "SpringBoot",
     "description": "SB标签：函数式端点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数式端点"
   },
   {
     "id": "sb-tag-345",
@@ -2757,7 +3101,8 @@
     "category": "SpringBoot",
     "description": "SB标签：WebFlux",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "webflux"
   },
   {
     "id": "sb-tag-346",
@@ -2765,7 +3110,8 @@
     "category": "SpringBoot",
     "description": "SB标签：响应式编程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "响应式编程"
   },
   {
     "id": "sb-tag-347",
@@ -2773,7 +3119,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SpringSecurityOAuth2",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "springsecurityoauth2"
   },
   {
     "id": "sb-tag-348",
@@ -2781,7 +3128,8 @@
     "category": "SpringBoot",
     "description": "SB标签：Keycloak",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "keycloak"
   },
   {
     "id": "sb-tag-349",
@@ -2789,7 +3137,8 @@
     "category": "SpringBoot",
     "description": "SB标签：OpenID",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "openid"
   },
   {
     "id": "sb-tag-350",
@@ -2797,7 +3146,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SAML",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "saml"
   },
   {
     "id": "sb-tag-351",
@@ -2805,7 +3155,8 @@
     "category": "SpringBoot",
     "description": "SB标签：CAS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cas"
   },
   {
     "id": "sb-tag-352",
@@ -2813,7 +3164,8 @@
     "category": "SpringBoot",
     "description": "SB标签：SSO单点登录",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sso单点登录"
   },
   {
     "id": "sb-tag-353",
@@ -2821,7 +3173,8 @@
     "category": "SpringBoot",
     "description": "SB标签：双因素认证",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双因素认证"
   },
   {
     "id": "sb-tag-354",
@@ -2829,7 +3182,8 @@
     "category": "SpringBoot",
     "description": "SB标签：图形验证码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图形验证码"
   },
   {
     "id": "sb-tag-355",
@@ -2837,7 +3191,8 @@
     "category": "SpringBoot",
     "description": "SB标签：短信验证码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "短信验证码"
   },
   {
     "id": "sb-tag-356",
@@ -2845,6 +3200,7 @@
     "category": "SpringBoot",
     "description": "SB标签：邮件验证码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "邮件验证码"
   }
 ]
